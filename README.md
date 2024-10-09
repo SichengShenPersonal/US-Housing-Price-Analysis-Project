@@ -3,18 +3,15 @@
 
 
 - **Phase 1: Python-Based Data Cleaning for Analytical Pipelines:**
-This phase emphasizes data cleaning using Python to prepare a real-world housing dataset from the USA for downstream use by data analysts working with SQL and dashboards. The cleaning process, powered by Pandas and NumPy, involves addressing missing values, normalizing data, and organizing the dataset for optimal analysis. Matplotlib is utilized for generating basic visualizations to explore key trends in the data. Statsmodels is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights that can be leveraged in the subsequent phases of the data pipeline.
+This phase emphasizes data cleaning using Python to prepare a real-world housing dataset from the USA for downstream use by data analysts working with particularly dashboards. The cleaning process, powered by Pandas and NumPy, involves addressing missing values, normalizing data, and organizing the dataset for optimal analysis. Matplotlib is utilized for generating basic visualizations to explore key trends in the data. Statsmodels is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights that can be leveraged in the subsequent phases of the data pipeline.
+
 - **Category 2:** 
 - **Category 3:** 
 - **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
+The interactive Tableau dashboards used to report and explore sales trends can be found here [link].
 
 # Data Structure & Initial Checks
 
