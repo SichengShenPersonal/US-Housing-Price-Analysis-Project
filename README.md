@@ -1,7 +1,7 @@
 # Project Background
 This project aims to analyze housing prices across the United States using data collected from multiple sources at the county level. The dataset includes various aspects including housing prices, employment rates, median age, income, education levels, ethnic group, crime rate, population and population density. The goal is to understand how these factors influence housing prices across different states and observe housing price trends over time.
 
-*Phase 1: Python-Based Data Cleaning for Analytical Pipelines:*
+**Phase 1: Python-Based Data Cleaning for Analytical Pipelines:**
 
 This phase emphasizes data cleaning using Python to prepare data for downstream use by data analysts, particularly those working with dashboards. The cleaning process, powered by Pandas and NumPy, addresses missing values, normalizes data, and organizes the dataset for optimal analysis. Matplotlib is used to generate basic visualizations to explore key trends in the data. Statsmodels is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights for subsequent phases of the data pipeline.
 
