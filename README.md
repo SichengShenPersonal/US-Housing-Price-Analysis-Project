@@ -26,6 +26,8 @@ We used **R-squared** values from one-on-one regressions with housing prices to 
 
 **Key Factors:** Population, population density, income, education, and Asian population percentage are important determinants of housing prices.
 
+*(A correlation coefficient of 0.32 between population and population density suggests a moderate relationship, so it's acceptable to include both variables in the analysis.)*
+
 **Non-Key Factors:** Crime rate, median age, unemployment, and other race percentages show weak or minimal impact on housing prices.
 
 
