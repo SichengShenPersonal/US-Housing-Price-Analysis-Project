@@ -12,7 +12,6 @@ This phase emphasizes data cleaning using **Python** to prepare data for downstr
 This phase focuses on the creation of an interactive **Tableau** dashboard that visually represents state-level data in a **geographical** format. The dashboard allows users to explore the relationships between housing prices and various factors such as population, income, crime rate, and education, presented through dynamic graphs for each state. This setup provides a deeper understanding of whether individual states have different preferences or key factors influencing housing prices, offering a clear comparison of how these relationships vary across the United States.
 
 - The interactive Tableau dashboard showing determining factors in a state-level geographical view can be found here [link].
-- The Jupyter Notebook used to perform the final regression can be found here [link].
 
 ## Phase 3: Tableau Dashboard for State-Level Housing Prices Over Time:
 
@@ -24,13 +23,8 @@ In this phase, a **Tableau** dashboard is designed to analyze housing price tren
 # Determing factors of Housing Price:
 We used **R-squared** values from one-on-one regressions with housing prices to identify key factors. R-squared was chosen as the main indicator due to the large dataset, where statistical significance is less informative.
 
-**Key Factors:** <u>Population</u> Population, population density, income, education, and Asian population percentage are important determinants of housing prices.
-
-*(A correlation coefficient of 0.32 between population and population density suggests a moderate relationship, so it's acceptable to include both variables in the analysis.)*
-
+**Key Factors:** Population, population density, income, education, and Asian population percentage are important determinants of housing prices.
 **Non-Key Factors:** Crime rate, median age, unemployment, and other race percentages show weak or minimal impact on housing prices.
-
-
 
 
 # Executive Summary
