@@ -24,9 +24,11 @@ In this phase, a **Tableau** dashboard is designed to analyze housing price tren
 # Determing factors of Housing Price:
 We used **R-squared** values from one-on-one regressions with housing prices to identify key factors. R-squared was chosen as the main indicator due to the large dataset, where statistical significance is less informative.
 
-**Key Factors:** Population, income, education, and Asian population percentage are important determinants of housing prices.
+**Key Factors:** Population, population density, income, education, and Asian population percentage are important determinants of housing prices.
 
-**Non-Key Factors:** Crime rate, population density, median age, unemployment, and other race percentages show weak or minimal impact on housing prices.
+**Non-Key Factors:** Crime rate, median age, unemployment, and other race percentages show weak or minimal impact on housing prices.
+
+
 
 
 # Executive Summary
