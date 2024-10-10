@@ -20,6 +20,7 @@ In this phase, a **Tableau** dashboard is designed to analyze housing price tren
 
 - The interactive Tableau dashboard of housing prices over time in a state-level geographical view can be found here [link].
 
+---
 # Determing factors of Housing Price:
 We used **R-squared** values from one-on-one regressions with housing prices to identify key factors. R-squared was chosen as the main indicator due to the large dataset, where statistical significance is less informative.
 
