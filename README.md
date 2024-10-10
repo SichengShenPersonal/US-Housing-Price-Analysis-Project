@@ -1,34 +1,27 @@
 # Project Background
-
-
+This project aims to analyze housing prices across the United States using data collected from multiple sources at the county level. The dataset includes various aspects including housing prices, employment rates, median age, income, education levels, ethnic group, crime rate, population and population density. The goal is to understand how these factors influence housing prices across different states and observe housing price trends over time.
 
 - **Phase 1: Python-Based Data Cleaning for Analytical Pipelines:**
-This phase emphasizes data cleaning using Python to prepare a real-world housing dataset from the USA for downstream use by data analysts working with particularly dashboards. The cleaning process, powered by Pandas and NumPy, involves addressing missing values, normalizing data, and organizing the dataset for optimal analysis. Matplotlib is utilized for generating basic visualizations to explore key trends in the data. Statsmodels is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights that can be leveraged in the subsequent phases of the data pipeline.
+This phase emphasizes data cleaning using Python to prepare data for downstream use by data analysts, particularly those working with dashboards. The cleaning process, powered by Pandas and NumPy, addresses missing values, normalizes data, and organizes the dataset for optimal analysis. Matplotlib is used to generate basic visualizations to explore key trends in the data. Statsmodels is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights for subsequent phases of the data pipeline.
 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+The Jupyter Notebook used for data cleaning and analysis can be found here [link].
 
-The Jupyter Notebook used to clean and analysis data can be found here [link].
+- **Phase 2: Interactive Tableau Dashboard for State-Level Housing Price Analysis:**
+This phase focuses on the creation of an interactive Tableau dashboard that visually represents state-level data in a geographical format. The dashboard allows users to explore the relationships between housing prices and various factors such as population, income, crime rate, and education, presented through dynamic graphs for each state. This setup provides a deeper understanding of whether individual states have different preferences or key factors influencing housing prices, offering a clear comparison of how these relationships vary across the United States.
 
-The interactive Tableau dashboards of determining factors in a state-level geograohical view can be found here [link].
+The interactive Tableau dashboard showing determining factors in a state-level geographical view can be found here [link].
+The Jupyter Notebook used to perform the final regression can be found here [link].
 
-The interactive Tableau dashboards of housing price overtime in a state-level geograohical vie can be found here [link].
+- **Phase 3: Tableau Dashboard for State-Level Housing Prices Over Time:**
+In this phase, a Tableau dashboard is designed to analyze housing price trends over time on a state-level basis. The dashboard displays a geographical view, allowing users to observe how housing prices have fluctuated across different states over the years. This time-based analysis helps identify long-term patterns, cyclical trends, and potential outliers in housing price movements, offering valuable insights into state-specific housing market dynamics and how they evolve over time.
 
-# Determing factors analysis
+The interactive Tableau dashboard of housing prices over time in a state-level geographical view can be found here [link].
 
-- **Notice:** Most variables are statistically significant due to the large dataset. To determine important factors for housing price, R-squared is more useful.
-- **Price vs Crime Rate:** A quadratic model shows a weak link between crime rate and housing prices (R-squared = 0.0165), indicating crime rate is not a crucial factor.
-- **Price vs Population:** The log-log model indicates a positive relationship between population and housing price (R-squared = 0.3733), suggesting population might be important.
-- **Price vs Population Density:** This model shows that 23.18% of price variation is explained by population density (R-squared = 0.2318), but other factors likely play a larger role.
-- **Price vs Income:** The polynomial model indicates a strong link between income and housing price (R-squared = 0.5342), showing income is a key factor, with a non-linear impact as income rises.
-- **Price vs Median Age:** The model shows a weak relationship (R-squared = 0.0212), suggesting median age has little effect on housing prices, despite statistical significance.
-- **Price vs Unemployment:** This model suggests unemployment has minimal influence on housing prices (R-squared = 0.0031), even though the terms are statistically significant.
-- **Price vs Race:** Race percentages (except Asian) have little effect on housing prices. However, the Asian percentage shows a significant impact (R-squared = 0.3921), suggesting it plays a notable role.
-- **Price vs Education:** Higher education levels, especially college or above, are linked to higher housing prices (R-squared = 0.4734), while lower education levels are associated with lower prices.
-- 
-[Entity Relationship Diagram here]
+# Determing factors of Housing Price:
+We used R-squared values from one-on-one regressions with housing prices to identify key factors. R-squared was chosen as the main indicator due to the large dataset, where statistical significance is less informative.
 
+**Key Factors:** Population, income, education, and Asian population percentage are important determinants of housing prices.
+**Non-Key Factors:** Crime rate, population density, median age, unemployment, and other race percentages show weak or minimal impact on housing prices.
 
 
 # Executive Summary
