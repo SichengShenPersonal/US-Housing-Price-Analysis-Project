@@ -9,18 +9,24 @@ This phase emphasizes data cleaning using Python to prepare a real-world housing
 - **Category 3:** 
 - **Category 4:** 
 
-The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
+The Jupyter Notebook used to clean and analysis data can be found here [link].
 
-The interactive Tableau dashboards used to report and explore sales trends can be found here [link].
+The interactive Tableau dashboards of determining factors in a state-level geograohical view can be found here [link].
 
-# Data Structure & Initial Checks
+The interactive Tableau dashboards of housing price overtime in a state-level geograohical vie can be found here [link].
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+# Determing factors analysis
 
+- **Notice:** Most variables are statistically significant due to the large dataset. To determine important factors for housing price, R-squared is more useful.
+- **Price vs Crime Rate:** A quadratic model shows a weak link between crime rate and housing prices (R-squared = 0.0165), indicating crime rate is not a crucial factor.
+- **Price vs Population:** The log-log model indicates a positive relationship between population and housing price (R-squared = 0.3733), suggesting population might be important.
+- **Price vs Population Density:** This model shows that 23.18% of price variation is explained by population density (R-squared = 0.2318), but other factors likely play a larger role.
+- **Price vs Income:** The polynomial model indicates a strong link between income and housing price (R-squared = 0.5342), showing income is a key factor, with a non-linear impact as income rises.
+- **Price vs Median Age:** The model shows a weak relationship (R-squared = 0.0212), suggesting median age has little effect on housing prices, despite statistical significance.
+- **Price vs Unemployment:** This model suggests unemployment has minimal influence on housing prices (R-squared = 0.0031), even though the terms are statistically significant.
+- **Price vs Race:** Race percentages (except Asian) have little effect on housing prices. However, the Asian percentage shows a significant impact (R-squared = 0.3921), suggesting it plays a notable role.
+- **Price vs Education:** Higher education levels, especially college or above, are linked to higher housing prices (R-squared = 0.4734), while lower education levels are associated with lower prices.
+- 
 [Entity Relationship Diagram here]
 
 
