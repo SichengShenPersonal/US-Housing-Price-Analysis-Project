@@ -11,7 +11,7 @@ This phase emphasizes data cleaning using **Python** to prepare data for downstr
 
 This phase focuses on the creation of an **interactive Tableau dashboard** that visually represents state-level data in a **geographical** format. The dashboard allows users to explore the relationships between housing prices and various factors such as population, income, crime rate, and education, presented through dynamic graphs for each state. This setup provides a deeper understanding of whether individual states have different preferences or key factors influencing housing prices, offering a clear comparison of how these relationships vary across the United States.
 
-- The interactive Tableau dashboard showing determining factors in a state-level geographical view can be found here [link].
+- The interactive Tableau dashboard showing determining factors in a state-level geographical view can be found [here](https://public.tableau.com/shared/J282T3PRR?:display_count=n&:origin=viz_share_link)].
 
 ## Phase 3: Tableau Dashboard for State-Level Housing Prices Over Time:
 
