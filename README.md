@@ -1,4 +1,4 @@
-# Project Background
+# Project Overview
 This project aims to analyze housing prices across the United States using data collected from multiple sources at the county level. The dataset includes various aspects including housing prices, employment rates, median age, income, education levels, ethnic group, crime rate, population and population density. The goal is to understand how these factors influence housing prices across different states and observe housing price trends over time.
 
 ## Phase 1: Data Cleaning for Analytical Pipelines:
