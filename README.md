@@ -5,7 +5,7 @@ This project aims to analyze housing prices across the United States using data 
 
 This phase emphasizes data cleaning using **Python** to prepare data for downstream use by data analysts, particularly those working with dashboards. The cleaning process, powered by **Pandas** and **NumPy**, addresses missing values, normalizes data, and organizes the dataset for optimal analysis. **Matplotlib** is used to generate basic visualizations to explore key trends in the data. **Statsmodels** is employed to develop a regression model that assesses the relationship between factors such as internet coverage, population density, and housing prices, providing foundational insights for subsequent phases of the data pipeline.
 
-- The Jupyter Notebook used for data cleaning and analysis can be found here [link].
+- The Jupyter Notebook used for data cleaning and analysis can be found [here](https://github.com/SichengShenPersonal/us_housing_price_analysis_project/blob/main/Phase%201/Cleaning.ipynb).
 
 ## Phase 2: Visualization Key Housing Price Factors:
 
