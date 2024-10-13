@@ -1,0 +1,3199 @@
+,Name,Unemployment_rate
+0,United States,5.4
+1,Alabama,3.4
+2,"Autauga County, Alabama",2.8
+3,"Baldwin County, Alabama",3.0
+4,"Barbour County, Alabama",5.7
+5,"Bibb County, Alabama",3.5
+6,"Blount County, Alabama",2.4
+7,"Bullock County, Alabama",4.0
+8,"Butler County, Alabama",5.3
+9,"Calhoun County, Alabama",4.1
+10,"Chambers County, Alabama",3.7
+11,"Cherokee County, Alabama",2.5
+12,"Chilton County, Alabama",2.9
+13,"Choctaw County, Alabama",4.4
+14,"Clarke County, Alabama",6.0
+15,"Clay County, Alabama",2.7
+16,"Cleburne County, Alabama",2.6
+17,"Coffee County, Alabama",2.8
+18,"Colbert County, Alabama",4.0
+19,"Conecuh County, Alabama",4.8
+20,"Coosa County, Alabama",3.1
+21,"Covington County, Alabama",3.0
+22,"Crenshaw County, Alabama",3.3
+23,"Cullman County, Alabama",2.4
+24,"Dale County, Alabama",3.1
+25,"Dallas County, Alabama",7.4
+26,"DeKalb County, Alabama",2.5
+27,"Elmore County, Alabama",2.7
+28,"Escambia County, Alabama",4.1
+29,"Etowah County, Alabama",4.1
+30,"Fayette County, Alabama",3.1
+31,"Franklin County, Alabama",2.5
+32,"Geneva County, Alabama",2.8
+33,"Greene County, Alabama",6.9
+34,"Hale County, Alabama",5.7
+35,"Henry County, Alabama",3.2
+36,"Houston County, Alabama",3.4
+37,"Jackson County, Alabama",2.9
+38,"Jefferson County, Alabama",3.6
+39,"Lamar County, Alabama",3.0
+40,"Lauderdale County, Alabama",3.2
+41,"Lawrence County, Alabama",2.9
+42,"Lee County, Alabama",2.8
+43,"Limestone County, Alabama",2.5
+44,"Lowndes County, Alabama",9.2
+45,"Macon County, Alabama",6.0
+46,"Madison County, Alabama",2.7
+47,"Marengo County, Alabama",4.2
+48,"Marion County, Alabama",2.8
+49,"Marshall County, Alabama",2.4
+50,"Mobile County, Alabama",4.7
+51,"Monroe County, Alabama",5.6
+52,"Montgomery County, Alabama",4.9
+53,"Morgan County, Alabama",2.6
+54,"Perry County, Alabama",8.3
+55,"Pickens County, Alabama",4.1
+56,"Pike County, Alabama",3.2
+57,"Randolph County, Alabama",2.7
+58,"Russell County, Alabama",3.1
+59,"St. Clair County, Alabama",2.6
+60,"Shelby County, Alabama",2.1
+61,"Sumter County, Alabama",4.5
+62,"Talladega County, Alabama",4.1
+63,"Tallapoosa County, Alabama",4.0
+64,"Tuscaloosa County, Alabama",3.6
+65,"Walker County, Alabama",3.6
+66,"Washington County, Alabama",4.7
+67,"Wilcox County, Alabama",11.0
+68,"Winston County, Alabama",2.8
+69,Alaska,6.4
+70,"Aleutians East Borough, Alaska",2.3
+71,"Aleutians West Census Area, Alaska",3.6
+72,"Anchorage Borough/municipality, Alaska",5.8
+73,"Bethel Census Area, Alaska",13.1
+74,"Bristol Bay Borough, Alaska",5.6
+75,"Chugach Census Area, Alaska",6.7
+76,"Copper River Census Area, Alaska",8.9
+77,"Denali Borough, Alaska",10.1
+78,"Dillingham Census Area, Alaska",8.2
+79,"Fairbanks North Star Borough, Alaska",5.0
+80,"Haines Borough, Alaska",11.3
+81,"Hoonah-Angoon Census Area, Alaska",9.3
+82,"Juneau Borough/city, Alaska",4.7
+83,"Kenai Peninsula Borough, Alaska",7.3
+84,"Ketchikan Gateway Borough, Alaska",7.4
+85,"Kodiak Island Borough, Alaska",6.4
+86,"Kusilvak Census Area, Alaska",19.9
+87,"Lake and Peninsula Borough, Alaska",8.9
+88,"Matanuska-Susitna Borough, Alaska",6.8
+89,"Nome Census Area, Alaska",9.7
+90,"North Slope Borough, Alaska",6.3
+91,"Northwest Arctic Borough, Alaska",11.5
+92,"Petersburg Borough, Alaska",7.0
+93,"Prince of Wales-Hyder Census Area, Alaska",8.0
+94,"Prince of Wales-Outer Ketchikan Census Area, Alaska",
+95,"Sitka Borough/city, Alaska",4.5
+96,"Skagway Municipality, Alaska",14.2
+97,"Skagway-Hoonah-Angoon Census Area, Alaska",
+98,"Southeast Fairbanks Census Area, Alaska",6.6
+99,"Valdez-Cordova Census Area, Alaska",
+100,"Wrangell Borough/city, Alaska",7.5
+101,"Wrangell-Petersburg Census Area, Alaska",
+102,"Yakutat Borough/city, Alaska",7.1
+103,"Yukon-Koyukuk Census Area, Alaska",12.4
+104,Arizona,4.9
+105,"Apache County, Arizona",9.1
+106,"Cochise County, Arizona",4.8
+107,"Coconino County, Arizona",6.0
+108,"Gila County, Arizona",5.0
+109,"Graham County, Arizona",4.1
+110,"Greenlee County, Arizona",4.0
+111,"La Paz County, Arizona",5.1
+112,"Maricopa County, Arizona",4.5
+113,"Mohave County, Arizona",5.5
+114,"Navajo County, Arizona",6.5
+115,"Pima County, Arizona",5.0
+116,"Pinal County, Arizona",4.7
+117,"Santa Cruz County, Arizona",8.7
+118,"Yavapai County, Arizona",4.1
+119,"Yuma County, Arizona",12.9
+120,Arkansas,4.0
+121,"Arkansas County, Arkansas",3.4
+122,"Ashley County, Arkansas",7.4
+123,"Baxter County, Arkansas",3.7
+124,"Benton County, Arkansas",2.8
+125,"Boone County, Arkansas",3.0
+126,"Bradley County, Arkansas",4.7
+127,"Calhoun County, Arkansas",3.3
+128,"Carroll County, Arkansas",3.4
+129,"Chicot County, Arkansas",8.6
+130,"Clark County, Arkansas",4.7
+131,"Clay County, Arkansas",4.0
+132,"Cleburne County, Arkansas",4.6
+133,"Cleveland County, Arkansas",4.0
+134,"Columbia County, Arkansas",5.3
+135,"Conway County, Arkansas",4.2
+136,"Craighead County, Arkansas",3.3
+137,"Crawford County, Arkansas",3.6
+138,"Crittenden County, Arkansas",5.4
+139,"Cross County, Arkansas",4.4
+140,"Dallas County, Arkansas",4.1
+141,"Desha County, Arkansas",5.9
+142,"Drew County, Arkansas",5.0
+143,"Faulkner County, Arkansas",3.5
+144,"Franklin County, Arkansas",3.7
+145,"Fulton County, Arkansas",3.6
+146,"Garland County, Arkansas",5.0
+147,"Grant County, Arkansas",3.2
+148,"Greene County, Arkansas",3.4
+149,"Hempstead County, Arkansas",3.5
+150,"Hot Spring County, Arkansas",3.9
+151,"Howard County, Arkansas",3.2
+152,"Independence County, Arkansas",3.9
+153,"Izard County, Arkansas",5.4
+154,"Jackson County, Arkansas",5.2
+155,"Jefferson County, Arkansas",6.6
+156,"Johnson County, Arkansas",4.7
+157,"Lafayette County, Arkansas",5.8
+158,"Lawrence County, Arkansas",4.3
+159,"Lee County, Arkansas",5.6
+160,"Lincoln County, Arkansas",4.6
+161,"Little River County, Arkansas",4.5
+162,"Logan County, Arkansas",4.2
+163,"Lonoke County, Arkansas",3.3
+164,"Madison County, Arkansas",3.1
+165,"Marion County, Arkansas",4.3
+166,"Miller County, Arkansas",4.8
+167,"Mississippi County, Arkansas",7.2
+168,"Monroe County, Arkansas",5.3
+169,"Montgomery County, Arkansas",4.8
+170,"Nevada County, Arkansas",4.0
+171,"Newton County, Arkansas",3.0
+172,"Ouachita County, Arkansas",3.9
+173,"Perry County, Arkansas",4.1
+174,"Phillips County, Arkansas",7.7
+175,"Pike County, Arkansas",4.4
+176,"Poinsett County, Arkansas",3.9
+177,"Polk County, Arkansas",4.4
+178,"Pope County, Arkansas",4.0
+179,"Prairie County, Arkansas",3.7
+180,"Pulaski County, Arkansas",4.9
+181,"Randolph County, Arkansas",3.9
+182,"St. Francis County, Arkansas",6.2
+183,"Saline County, Arkansas",3.1
+184,"Scott County, Arkansas",3.3
+185,"Searcy County, Arkansas",4.2
+186,"Sebastian County, Arkansas",3.7
+187,"Sevier County, Arkansas",4.4
+188,"Sharp County, Arkansas",4.9
+189,"Stone County, Arkansas",5.0
+190,"Union County, Arkansas",6.1
+191,"Van Buren County, Arkansas",4.9
+192,"Washington County, Arkansas",2.9
+193,"White County, Arkansas",4.0
+194,"Woodruff County, Arkansas",5.0
+195,"Yell County, Arkansas",4.0
+196,California,7.3
+197,"Alameda County, California",6.1
+198,"Alpine County, California",8.1
+199,"Amador County, California",7.0
+200,"Butte County, California",6.9
+201,"Calaveras County, California",5.7
+202,"Colusa County, California",12.5
+203,"Contra Costa County, California",6.4
+204,"Del Norte County, California",7.6
+205,"El Dorado County, California",5.7
+206,"Fresno County, California",9.2
+207,"Glenn County, California",6.9
+208,"Humboldt County, California",6.2
+209,"Imperial County, California",17.3
+210,"Inyo County, California",5.9
+211,"Kern County, California",10.0
+212,"Kings County, California",9.6
+213,"Lake County, California",7.6
+214,"Lassen County, California",5.9
+215,"Los Angeles County, California",8.9
+216,"Madera County, California",8.8
+217,"Marin County, California",4.5
+218,"Mariposa County, California",8.0
+219,"Mendocino County, California",6.2
+220,"Merced County, California",10.4
+221,"Modoc County, California",7.1
+222,"Mono County, California",6.8
+223,"Monterey County, California",8.3
+224,"Napa County, California",6.0
+225,"Nevada County, California",5.6
+226,"Orange County, California",6.0
+227,"Placer County, California",5.0
+228,"Plumas County, California",9.5
+229,"Riverside County, California",7.3
+230,"Sacramento County, California",7.0
+231,"San Benito County, California",7.2
+232,"San Bernardino County, California",7.4
+233,"San Diego County, California",6.5
+234,"San Francisco County/city, California",5.0
+235,"San Joaquin County, California",8.7
+236,"San Luis Obispo County, California",5.2
+237,"San Mateo County, California",4.6
+238,"Santa Barbara County, California",5.8
+239,"Santa Clara County, California",4.7
+240,"Santa Cruz County, California",6.9
+241,"Shasta County, California",6.8
+242,"Sierra County, California",6.0
+243,"Siskiyou County, California",8.1
+244,"Solano County, California",7.5
+245,"Sonoma County, California",5.5
+246,"Stanislaus County, California",8.4
+247,"Sutter County, California",9.0
+248,"Tehama County, California",7.2
+249,"Trinity County, California",6.3
+250,"Tulare County, California",10.7
+251,"Tuolumne County, California",7.3
+252,"Ventura County, California",6.2
+253,"Yolo County, California",5.8
+254,"Yuba County, California",8.5
+255,Colorado,5.4
+256,"Adams County, Colorado",6.2
+257,"Alamosa County, Colorado",5.5
+258,"Arapahoe County, Colorado",5.8
+259,"Archuleta County, Colorado",4.9
+260,"Baca County, Colorado",2.1
+261,"Bent County, Colorado",6.1
+262,"Boulder County, Colorado",4.4
+263,"Broomfield County/city, Colorado",4.5
+264,"Chaffee County, Colorado",4.0
+265,"Cheyenne County, Colorado",2.3
+266,"Clear Creek County, Colorado",5.5
+267,"Conejos County, Colorado",4.8
+268,"Costilla County, Colorado",6.0
+269,"Crowley County, Colorado",5.2
+270,"Custer County, Colorado",4.0
+271,"Delta County, Colorado",5.3
+272,"Denver County/city, Colorado",5.9
+273,"Dolores County, Colorado",4.7
+274,"Douglas County, Colorado",4.1
+275,"Eagle County, Colorado",4.4
+276,"Elbert County, Colorado",3.8
+277,"El Paso County, Colorado",5.6
+278,"Fremont County, Colorado",6.9
+279,"Garfield County, Colorado",4.7
+280,"Gilpin County, Colorado",6.2
+281,"Grand County, Colorado",4.2
+282,"Gunnison County, Colorado",3.7
+283,"Hinsdale County, Colorado",3.6
+284,"Huerfano County, Colorado",8.2
+285,"Jackson County, Colorado",3.3
+286,"Jefferson County, Colorado",5.0
+287,"Kiowa County, Colorado",3.3
+288,"Kit Carson County, Colorado",3.0
+289,"Lake County, Colorado",4.4
+290,"La Plata County, Colorado",5.2
+291,"Larimer County, Colorado",4.7
+292,"Las Animas County, Colorado",6.5
+293,"Lincoln County, Colorado",4.2
+294,"Logan County, Colorado",4.4
+295,"Mesa County, Colorado",5.7
+296,"Mineral County, Colorado",5.0
+297,"Moffat County, Colorado",4.8
+298,"Montezuma County, Colorado",5.6
+299,"Montrose County, Colorado",5.0
+300,"Morgan County, Colorado",4.9
+301,"Otero County, Colorado",6.1
+302,"Ouray County, Colorado",4.5
+303,"Park County, Colorado",4.1
+304,"Phillips County, Colorado",2.9
+305,"Pitkin County, Colorado",5.5
+306,"Prowers County, Colorado",4.5
+307,"Pueblo County, Colorado",7.9
+308,"Rio Blanco County, Colorado",5.5
+309,"Rio Grande County, Colorado",6.5
+310,"Routt County, Colorado",4.2
+311,"Saguache County, Colorado",5.9
+312,"San Juan County, Colorado",3.5
+313,"San Miguel County, Colorado",5.0
+314,"Sedgwick County, Colorado",3.7
+315,"Summit County, Colorado",4.0
+316,"Teller County, Colorado",4.9
+317,"Washington County, Colorado",3.2
+318,"Weld County, Colorado",5.7
+319,"Yuma County, Colorado",2.7
+320,Connecticut,6.3
+321,"Fairfield County, Connecticut",6.1
+322,"Hartford County, Connecticut",6.5
+323,"Litchfield County, Connecticut",5.5
+324,"Middlesex County, Connecticut",5.2
+325,"New Haven County, Connecticut",6.6
+326,"New London County, Connecticut",6.9
+327,"Tolland County, Connecticut",5.1
+328,"Windham County, Connecticut",6.2
+329,Delaware,5.3
+330,"Kent County, Delaware",6.2
+331,"New Castle County, Delaware",5.3
+332,"Sussex County, Delaware",4.8
+333,District of Columbia,6.6
+334,District of Columbia,6.6
+335,Florida,4.6
+336,"Alachua County, Florida",3.7
+337,"Baker County, Florida",3.7
+338,"Bay County, Florida",3.9
+339,"Bradford County, Florida",4.2
+340,"Brevard County, Florida",4.0
+341,"Broward County, Florida",4.9
+342,"Calhoun County, Florida",4.5
+343,"Charlotte County, Florida",4.4
+344,"Citrus County, Florida",5.7
+345,"Clay County, Florida",3.5
+346,"Collier County, Florida",3.7
+347,"Columbia County, Florida",4.5
+348,"DeSoto County, Florida",3.8
+349,"Dixie County, Florida",4.3
+350,"Duval County, Florida",4.5
+351,"Escambia County, Florida",4.5
+352,"Flagler County, Florida",4.6
+353,"Franklin County, Florida",3.8
+354,"Gadsden County, Florida",5.4
+355,"Gilchrist County, Florida",3.7
+356,"Glades County, Florida",4.2
+357,"Gulf County, Florida",3.6
+358,"Hamilton County, Florida",6.0
+359,"Hardee County, Florida",4.8
+360,"Hendry County, Florida",6.1
+361,"Hernando County, Florida",5.1
+362,"Highlands County, Florida",5.9
+363,"Hillsborough County, Florida",4.3
+364,"Holmes County, Florida",4.1
+365,"Indian River County, Florida",4.7
+366,"Jackson County, Florida",4.6
+367,"Jefferson County, Florida",4.2
+368,"Lafayette County, Florida",4.0
+369,"Lake County, Florida",4.7
+370,"Lee County, Florida",4.2
+371,"Leon County, Florida",4.2
+372,"Levy County, Florida",4.5
+373,"Liberty County, Florida",4.2
+374,"Madison County, Florida",4.9
+375,"Manatee County, Florida",3.9
+376,"Marion County, Florida",4.9
+377,"Martin County, Florida",3.6
+378,"Miami-Dade County, Florida",5.2
+379,"Monroe County, Florida",3.0
+380,"Nassau County, Florida",3.4
+381,"Okaloosa County, Florida",3.3
+382,"Okeechobee County, Florida",4.1
+383,"Orange County, Florida",5.2
+384,"Osceola County, Florida",6.3
+385,"Palm Beach County, Florida",4.3
+386,"Pasco County, Florida",4.4
+387,"Pinellas County, Florida",4.0
+388,"Polk County, Florida",5.4
+389,"Putnam County, Florida",6.1
+390,"St. Johns County, Florida",3.0
+391,"St. Lucie County, Florida",4.9
+392,"Santa Rosa County, Florida",3.5
+393,"Sarasota County, Florida",3.8
+394,"Seminole County, Florida",4.1
+395,"Sumter County, Florida",5.3
+396,"Suwannee County, Florida",4.5
+397,"Taylor County, Florida",5.0
+398,"Union County, Florida",3.7
+399,"Volusia County, Florida",4.6
+400,"Wakulla County, Florida",3.2
+401,"Walton County, Florida",3.5
+402,"Washington County, Florida",4.5
+403,Georgia,3.9
+404,"Appling County, Georgia",3.6
+405,"Atkinson County, Georgia",2.9
+406,"Bacon County, Georgia",3.2
+407,"Baker County, Georgia",4.9
+408,"Baldwin County, Georgia",4.8
+409,"Banks County, Georgia",2.6
+410,"Barrow County, Georgia",2.9
+411,"Bartow County, Georgia",3.5
+412,"Ben Hill County, Georgia",5.2
+413,"Berrien County, Georgia",3.7
+414,"Bibb County, Georgia",5.0
+415,"Bleckley County, Georgia",5.0
+416,"Brantley County, Georgia",3.6
+417,"Brooks County, Georgia",3.7
+418,"Bryan County, Georgia",2.9
+419,"Bulloch County, Georgia",4.1
+420,"Burke County, Georgia",5.8
+421,"Butts County, Georgia",3.6
+422,"Calhoun County, Georgia",4.0
+423,"Camden County, Georgia",3.2
+424,"Candler County, Georgia",3.0
+425,"Carroll County, Georgia",3.7
+426,"Catoosa County, Georgia",2.7
+427,"Charlton County, Georgia",3.2
+428,"Chatham County, Georgia",4.3
+429,"Chattahoochee County, Georgia",4.5
+430,"Chattooga County, Georgia",4.8
+431,"Cherokee County, Georgia",2.6
+432,"Clarke County, Georgia",3.8
+433,"Clay County, Georgia",10.2
+434,"Clayton County, Georgia",6.5
+435,"Clinch County, Georgia",2.9
+436,"Cobb County, Georgia",3.3
+437,"Coffee County, Georgia",4.1
+438,"Colquitt County, Georgia",3.2
+439,"Columbia County, Georgia",2.7
+440,"Cook County, Georgia",3.4
+441,"Coweta County, Georgia",3.4
+442,"Crawford County, Georgia",3.7
+443,"Crisp County, Georgia",8.6
+444,"Dade County, Georgia",2.6
+445,"Dawson County, Georgia",2.7
+446,"Decatur County, Georgia",3.7
+447,"DeKalb County, Georgia",4.6
+448,"Dodge County, Georgia",4.2
+449,"Dooly County, Georgia",7.3
+450,"Dougherty County, Georgia",6.4
+451,"Douglas County, Georgia",4.4
+452,"Early County, Georgia",5.0
+453,"Echols County, Georgia",2.7
+454,"Effingham County, Georgia",2.9
+455,"Elbert County, Georgia",4.9
+456,"Emanuel County, Georgia",5.3
+457,"Evans County, Georgia",3.5
+458,"Fannin County, Georgia",2.8
+459,"Fayette County, Georgia",2.9
+460,"Floyd County, Georgia",3.7
+461,"Forsyth County, Georgia",2.5
+462,"Franklin County, Georgia",3.7
+463,"Fulton County, Georgia",4.7
+464,"Gilmer County, Georgia",3.0
+465,"Glascock County, Georgia",2.6
+466,"Glynn County, Georgia",3.8
+467,"Gordon County, Georgia",3.2
+468,"Grady County, Georgia",3.1
+469,"Greene County, Georgia",3.7
+470,"Gwinnett County, Georgia",3.5
+471,"Habersham County, Georgia",3.6
+472,"Hall County, Georgia",2.7
+473,"Hancock County, Georgia",6.4
+474,"Haralson County, Georgia",3.5
+475,"Harris County, Georgia",2.9
+476,"Hart County, Georgia",3.9
+477,"Heard County, Georgia",3.9
+478,"Henry County, Georgia",4.2
+479,"Houston County, Georgia",3.6
+480,"Irwin County, Georgia",4.5
+481,"Jackson County, Georgia",2.4
+482,"Jasper County, Georgia",3.2
+483,"Jeff Davis County, Georgia",4.0
+484,"Jefferson County, Georgia",4.7
+485,"Jenkins County, Georgia",4.7
+486,"Johnson County, Georgia",3.5
+487,"Jones County, Georgia",3.1
+488,"Lamar County, Georgia",4.2
+489,"Lanier County, Georgia",3.8
+490,"Laurens County, Georgia",4.3
+491,"Lee County, Georgia",3.1
+492,"Liberty County, Georgia",4.0
+493,"Lincoln County, Georgia",4.0
+494,"Long County, Georgia",3.0
+495,"Lowndes County, Georgia",4.1
+496,"Lumpkin County, Georgia",2.8
+497,"McDuffie County, Georgia",5.2
+498,"McIntosh County, Georgia",3.7
+499,"Macon County, Georgia",6.3
+500,"Madison County, Georgia",3.1
+501,"Marion County, Georgia",3.6
+502,"Meriwether County, Georgia",5.3
+503,"Miller County, Georgia",3.0
+504,"Mitchell County, Georgia",5.0
+505,"Monroe County, Georgia",3.1
+506,"Montgomery County, Georgia",4.1
+507,"Morgan County, Georgia",3.2
+508,"Murray County, Georgia",4.3
+509,"Muscogee County, Georgia",5.3
+510,"Newton County, Georgia",4.4
+511,"Oconee County, Georgia",2.2
+512,"Oglethorpe County, Georgia",2.9
+513,"Paulding County, Georgia",3.0
+514,"Peach County, Georgia",4.7
+515,"Pickens County, Georgia",2.8
+516,"Pierce County, Georgia",3.1
+517,"Pike County, Georgia",2.8
+518,"Polk County, Georgia",3.6
+519,"Pulaski County, Georgia",3.6
+520,"Putnam County, Georgia",4.0
+521,"Quitman County, Georgia",4.9
+522,"Rabun County, Georgia",3.1
+523,"Randolph County, Georgia",5.2
+524,"Richmond County, Georgia",5.3
+525,"Rockdale County, Georgia",4.6
+526,"Schley County, Georgia",3.7
+527,"Screven County, Georgia",5.6
+528,"Seminole County, Georgia",3.7
+529,"Spalding County, Georgia",4.7
+530,"Stephens County, Georgia",4.3
+531,"Stewart County, Georgia",3.8
+532,"Sumter County, Georgia",5.7
+533,"Talbot County, Georgia",4.5
+534,"Taliaferro County, Georgia",5.0
+535,"Tattnall County, Georgia",3.2
+536,"Taylor County, Georgia",5.7
+537,"Telfair County, Georgia",7.2
+538,"Terrell County, Georgia",6.2
+539,"Thomas County, Georgia",4.2
+540,"Tift County, Georgia",3.4
+541,"Toombs County, Georgia",4.5
+542,"Towns County, Georgia",3.9
+543,"Treutlen County, Georgia",4.3
+544,"Troup County, Georgia",4.4
+545,"Turner County, Georgia",6.4
+546,"Twiggs County, Georgia",5.1
+547,"Union County, Georgia",2.7
+548,"Upson County, Georgia",4.0
+549,"Walker County, Georgia",3.1
+550,"Walton County, Georgia",3.2
+551,"Ware County, Georgia",3.7
+552,"Warren County, Georgia",4.7
+553,"Washington County, Georgia",5.0
+554,"Wayne County, Georgia",3.7
+555,"Webster County, Georgia",4.4
+556,"Wheeler County, Georgia",5.5
+557,"White County, Georgia",2.5
+558,"Whitfield County, Georgia",3.9
+559,"Wilcox County, Georgia",4.6
+560,"Wilkes County, Georgia",4.7
+561,"Wilkinson County, Georgia",4.2
+562,"Worth County, Georgia",4.0
+563,Hawaii,5.7
+564,"Hawaii County, Hawaii",5.5
+565,"Honolulu County/city, Hawaii",5.3
+566,"Kauai County, Hawaii",7.8
+567,"Maui County, Hawaii",7.3
+568,Idaho,3.6
+569,"Ada County, Idaho",3.3
+570,"Adams County, Idaho",6.6
+571,"Bannock County, Idaho",3.6
+572,"Bear Lake County, Idaho",3.0
+573,"Benewah County, Idaho",5.6
+574,"Bingham County, Idaho",3.2
+575,"Blaine County, Idaho",3.6
+576,"Boise County, Idaho",5.4
+577,"Bonner County, Idaho",4.8
+578,"Bonneville County, Idaho",2.9
+579,"Boundary County, Idaho",4.4
+580,"Butte County, Idaho",3.8
+581,"Camas County, Idaho",3.4
+582,"Canyon County, Idaho",4.0
+583,"Caribou County, Idaho",3.1
+584,"Cassia County, Idaho",2.9
+585,"Clark County, Idaho",3.2
+586,"Clearwater County, Idaho",6.5
+587,"Custer County, Idaho",4.7
+588,"Elmore County, Idaho",3.7
+589,"Franklin County, Idaho",2.5
+590,"Fremont County, Idaho",2.9
+591,"Gem County, Idaho",4.1
+592,"Gooding County, Idaho",3.1
+593,"Idaho County, Idaho",4.9
+594,"Jefferson County, Idaho",2.7
+595,"Jerome County, Idaho",3.3
+596,"Kootenai County, Idaho",4.3
+597,"Latah County, Idaho",3.3
+598,"Lemhi County, Idaho",5.3
+599,"Lewis County, Idaho",5.7
+600,"Lincoln County, Idaho",4.4
+601,"Madison County, Idaho",2.2
+602,"Minidoka County, Idaho",3.1
+603,"Nez Perce County, Idaho",3.3
+604,"Oneida County, Idaho",2.5
+605,"Owyhee County, Idaho",4.3
+606,"Payette County, Idaho",4.0
+607,"Power County, Idaho",3.8
+608,"Shoshone County, Idaho",6.6
+609,"Teton County, Idaho",2.9
+610,"Twin Falls County, Idaho",3.6
+611,"Valley County, Idaho",5.3
+612,"Washington County, Idaho",4.4
+613,Illinois,6.1
+614,"Adams County, Illinois",3.9
+615,"Alexander County, Illinois",8.1
+616,"Bond County, Illinois",4.6
+617,"Boone County, Illinois",8.5
+618,"Brown County, Illinois",2.5
+619,"Bureau County, Illinois",5.0
+620,"Calhoun County, Illinois",4.8
+621,"Carroll County, Illinois",4.2
+622,"Cass County, Illinois",4.9
+623,"Champaign County, Illinois",4.8
+624,"Christian County, Illinois",5.4
+625,"Clark County, Illinois",5.0
+626,"Clay County, Illinois",5.5
+627,"Clinton County, Illinois",3.4
+628,"Coles County, Illinois",5.1
+629,"Cook County, Illinois",7.0
+630,"Crawford County, Illinois",5.0
+631,"Cumberland County, Illinois",4.2
+632,"DeKalb County, Illinois",5.6
+633,"De Witt County, Illinois",4.9
+634,"Douglas County, Illinois",3.7
+635,"DuPage County, Illinois",4.5
+636,"Edgar County, Illinois",4.0
+637,"Edwards County, Illinois",5.1
+638,"Effingham County, Illinois",3.9
+639,"Fayette County, Illinois",5.1
+640,"Ford County, Illinois",4.4
+641,"Franklin County, Illinois",6.6
+642,"Fulton County, Illinois",5.7
+643,"Gallatin County, Illinois",6.1
+644,"Greene County, Illinois",4.6
+645,"Grundy County, Illinois",5.3
+646,"Hamilton County, Illinois",4.3
+647,"Hancock County, Illinois",4.3
+648,"Hardin County, Illinois",6.7
+649,"Henderson County, Illinois",4.0
+650,"Henry County, Illinois",4.9
+651,"Iroquois County, Illinois",4.7
+652,"Jackson County, Illinois",5.4
+653,"Jasper County, Illinois",4.3
+654,"Jefferson County, Illinois",6.2
+655,"Jersey County, Illinois",4.4
+656,"Jo Daviess County, Illinois",4.4
+657,"Johnson County, Illinois",6.0
+658,"Kane County, Illinois",5.9
+659,"Kankakee County, Illinois",6.5
+660,"Kendall County, Illinois",4.7
+661,"Knox County, Illinois",6.6
+662,"Lake County, Illinois",5.3
+663,"LaSalle County, Illinois",6.0
+664,"Lawrence County, Illinois",6.1
+665,"Lee County, Illinois",4.5
+666,"Livingston County, Illinois",4.9
+667,"Logan County, Illinois",4.8
+668,"McDonough County, Illinois",4.9
+669,"McHenry County, Illinois",4.7
+670,"McLean County, Illinois",4.6
+671,"Macon County, Illinois",7.7
+672,"Macoupin County, Illinois",4.5
+673,"Madison County, Illinois",4.9
+674,"Marion County, Illinois",5.8
+675,"Marshall County, Illinois",5.6
+676,"Mason County, Illinois",5.4
+677,"Massac County, Illinois",5.8
+678,"Menard County, Illinois",4.1
+679,"Mercer County, Illinois",4.9
+680,"Monroe County, Illinois",3.1
+681,"Montgomery County, Illinois",5.4
+682,"Morgan County, Illinois",5.0
+683,"Moultrie County, Illinois",3.5
+684,"Ogle County, Illinois",5.8
+685,"Peoria County, Illinois",7.2
+686,"Perry County, Illinois",5.8
+687,"Piatt County, Illinois",4.0
+688,"Pike County, Illinois",4.1
+689,"Pope County, Illinois",5.1
+690,"Pulaski County, Illinois",9.3
+691,"Putnam County, Illinois",5.0
+692,"Randolph County, Illinois",4.3
+693,"Richland County, Illinois",4.3
+694,"Rock Island County, Illinois",5.6
+695,"St. Clair County, Illinois",6.1
+696,"Saline County, Illinois",6.6
+697,"Sangamon County, Illinois",5.5
+698,"Schuyler County, Illinois",3.9
+699,"Scott County, Illinois",5.1
+700,"Shelby County, Illinois",4.2
+701,"Stark County, Illinois",5.5
+702,"Stephenson County, Illinois",5.5
+703,"Tazewell County, Illinois",5.0
+704,"Union County, Illinois",5.7
+705,"Vermilion County, Illinois",6.5
+706,"Wabash County, Illinois",4.5
+707,"Warren County, Illinois",4.6
+708,"Washington County, Illinois",3.0
+709,"Wayne County, Illinois",4.7
+710,"White County, Illinois",5.0
+711,"Whiteside County, Illinois",4.8
+712,"Will County, Illinois",5.7
+713,"Williamson County, Illinois",5.5
+714,"Winnebago County, Illinois",8.4
+715,"Woodford County, Illinois",4.0
+716,Indiana,3.6
+717,"Adams County, Indiana",2.2
+718,"Allen County, Indiana",3.7
+719,"Bartholomew County, Indiana",2.9
+720,"Benton County, Indiana",2.7
+721,"Blackford County, Indiana",3.7
+722,"Boone County, Indiana",2.1
+723,"Brown County, Indiana",3.2
+724,"Carroll County, Indiana",2.9
+725,"Cass County, Indiana",3.6
+726,"Clark County, Indiana",3.2
+727,"Clay County, Indiana",3.6
+728,"Clinton County, Indiana",2.8
+729,"Crawford County, Indiana",3.7
+730,"Daviess County, Indiana",2.3
+731,"Dearborn County, Indiana",3.0
+732,"Decatur County, Indiana",2.8
+733,"DeKalb County, Indiana",2.7
+734,"Delaware County, Indiana",3.9
+735,"Dubois County, Indiana",2.4
+736,"Elkhart County, Indiana",2.5
+737,"Fayette County, Indiana",4.4
+738,"Floyd County, Indiana",2.8
+739,"Fountain County, Indiana",2.9
+740,"Franklin County, Indiana",2.7
+741,"Fulton County, Indiana",3.3
+742,"Gibson County, Indiana",2.5
+743,"Grant County, Indiana",3.7
+744,"Greene County, Indiana",3.4
+745,"Hamilton County, Indiana",2.2
+746,"Hancock County, Indiana",2.6
+747,"Harrison County, Indiana",2.7
+748,"Hendricks County, Indiana",2.5
+749,"Henry County, Indiana",3.2
+750,"Howard County, Indiana",6.2
+751,"Huntington County, Indiana",3.0
+752,"Jackson County, Indiana",3.0
+753,"Jasper County, Indiana",3.5
+754,"Jay County, Indiana",2.7
+755,"Jefferson County, Indiana",3.1
+756,"Jennings County, Indiana",3.7
+757,"Johnson County, Indiana",2.6
+758,"Knox County, Indiana",2.8
+759,"Kosciusko County, Indiana",2.7
+760,"LaGrange County, Indiana",2.0
+761,"Lake County, Indiana",6.1
+762,"LaPorte County, Indiana",5.1
+763,"Lawrence County, Indiana",3.5
+764,"Madison County, Indiana",4.1
+765,"Marion County, Indiana",4.4
+766,"Marshall County, Indiana",2.7
+767,"Martin County, Indiana",2.5
+768,"Miami County, Indiana",4.4
+769,"Monroe County, Indiana",2.9
+770,"Montgomery County, Indiana",2.6
+771,"Morgan County, Indiana",2.9
+772,"Newton County, Indiana",3.8
+773,"Noble County, Indiana",3.3
+774,"Ohio County, Indiana",2.5
+775,"Orange County, Indiana",4.2
+776,"Owen County, Indiana",3.6
+777,"Parke County, Indiana",2.9
+778,"Perry County, Indiana",3.1
+779,"Pike County, Indiana",3.4
+780,"Porter County, Indiana",3.9
+781,"Posey County, Indiana",2.6
+782,"Pulaski County, Indiana",2.9
+783,"Putnam County, Indiana",3.1
+784,"Randolph County, Indiana",2.9
+785,"Ripley County, Indiana",2.8
+786,"Rush County, Indiana",2.8
+787,"St. Joseph County, Indiana",4.2
+788,"Scott County, Indiana",3.9
+789,"Shelby County, Indiana",3.0
+790,"Spencer County, Indiana",2.7
+791,"Starke County, Indiana",4.3
+792,"Steuben County, Indiana",2.5
+793,"Sullivan County, Indiana",3.8
+794,"Switzerland County, Indiana",3.5
+795,"Tippecanoe County, Indiana",3.3
+796,"Tipton County, Indiana",3.0
+797,"Union County, Indiana",2.4
+798,"Vanderburgh County, Indiana",3.6
+799,"Vermillion County, Indiana",4.0
+800,"Vigo County, Indiana",4.3
+801,"Wabash County, Indiana",2.9
+802,"Warren County, Indiana",2.6
+803,"Warrick County, Indiana",2.6
+804,"Washington County, Indiana",3.1
+805,"Wayne County, Indiana",3.6
+806,"Wells County, Indiana",2.6
+807,"White County, Indiana",2.6
+808,"Whitley County, Indiana",2.7
+809,Iowa,4.2
+810,"Adair County, Iowa",3.1
+811,"Adams County, Iowa",3.0
+812,"Allamakee County, Iowa",4.6
+813,"Appanoose County, Iowa",4.3
+814,"Audubon County, Iowa",3.2
+815,"Benton County, Iowa",4.5
+816,"Black Hawk County, Iowa",4.6
+817,"Boone County, Iowa",3.5
+818,"Bremer County, Iowa",3.2
+819,"Buchanan County, Iowa",3.7
+820,"Buena Vista County, Iowa",3.2
+821,"Butler County, Iowa",3.8
+822,"Calhoun County, Iowa",3.9
+823,"Carroll County, Iowa",3.1
+824,"Cass County, Iowa",3.7
+825,"Cedar County, Iowa",3.8
+826,"Cerro Gordo County, Iowa",4.3
+827,"Cherokee County, Iowa",3.4
+828,"Chickasaw County, Iowa",3.6
+829,"Clarke County, Iowa",4.3
+830,"Clay County, Iowa",3.6
+831,"Clayton County, Iowa",5.1
+832,"Clinton County, Iowa",5.3
+833,"Crawford County, Iowa",5.2
+834,"Dallas County, Iowa",2.9
+835,"Davis County, Iowa",3.3
+836,"Decatur County, Iowa",3.3
+837,"Delaware County, Iowa",3.3
+838,"Des Moines County, Iowa",6.3
+839,"Dickinson County, Iowa",3.9
+840,"Dubuque County, Iowa",4.4
+841,"Emmet County, Iowa",4.1
+842,"Fayette County, Iowa",4.7
+843,"Floyd County, Iowa",4.3
+844,"Franklin County, Iowa",3.7
+845,"Fremont County, Iowa",2.9
+846,"Greene County, Iowa",3.4
+847,"Grundy County, Iowa",3.6
+848,"Guthrie County, Iowa",4.2
+849,"Hamilton County, Iowa",4.2
+850,"Hancock County, Iowa",3.8
+851,"Hardin County, Iowa",4.2
+852,"Harrison County, Iowa",3.9
+853,"Henry County, Iowa",4.2
+854,"Howard County, Iowa",3.8
+855,"Humboldt County, Iowa",3.5
+856,"Ida County, Iowa",3.2
+857,"Iowa County, Iowa",3.8
+858,"Jackson County, Iowa",5.0
+859,"Jasper County, Iowa",4.3
+860,"Jefferson County, Iowa",4.2
+861,"Johnson County, Iowa",3.7
+862,"Jones County, Iowa",4.5
+863,"Keokuk County, Iowa",4.4
+864,"Kossuth County, Iowa",3.3
+865,"Lee County, Iowa",5.9
+866,"Linn County, Iowa",5.0
+867,"Louisa County, Iowa",4.3
+868,"Lucas County, Iowa",3.1
+869,"Lyon County, Iowa",2.3
+870,"Madison County, Iowa",4.5
+871,"Mahaska County, Iowa",3.7
+872,"Marion County, Iowa",3.1
+873,"Marshall County, Iowa",6.5
+874,"Mills County, Iowa",3.5
+875,"Mitchell County, Iowa",3.0
+876,"Monona County, Iowa",4.4
+877,"Monroe County, Iowa",4.1
+878,"Montgomery County, Iowa",4.1
+879,"Muscatine County, Iowa",4.7
+880,"O'Brien County, Iowa",3.0
+881,"Osceola County, Iowa",2.4
+882,"Page County, Iowa",4.1
+883,"Palo Alto County, Iowa",3.3
+884,"Plymouth County, Iowa",3.0
+885,"Pocahontas County, Iowa",3.1
+886,"Polk County, Iowa",4.5
+887,"Pottawattamie County, Iowa",4.3
+888,"Poweshiek County, Iowa",4.4
+889,"Ringgold County, Iowa",3.4
+890,"Sac County, Iowa",3.3
+891,"Scott County, Iowa",5.4
+892,"Shelby County, Iowa",3.2
+893,"Sioux County, Iowa",2.4
+894,"Story County, Iowa",3.0
+895,"Tama County, Iowa",4.7
+896,"Taylor County, Iowa",3.1
+897,"Union County, Iowa",4.5
+898,"Van Buren County, Iowa",3.8
+899,"Wapello County, Iowa",5.0
+900,"Warren County, Iowa",3.7
+901,"Washington County, Iowa",3.8
+902,"Wayne County, Iowa",3.7
+903,"Webster County, Iowa",4.6
+904,"Winnebago County, Iowa",4.2
+905,"Winneshiek County, Iowa",4.1
+906,"Woodbury County, Iowa",4.3
+907,"Worth County, Iowa",4.2
+908,"Wright County, Iowa",4.1
+909,Kansas,3.2
+910,"Allen County, Kansas",3.0
+911,"Anderson County, Kansas",2.5
+912,"Atchison County, Kansas",3.8
+913,"Barber County, Kansas",1.9
+914,"Barton County, Kansas",2.9
+915,"Bourbon County, Kansas",3.7
+916,"Brown County, Kansas",2.7
+917,"Butler County, Kansas",3.5
+918,"Chase County, Kansas",2.4
+919,"Chautauqua County, Kansas",4.0
+920,"Cherokee County, Kansas",2.9
+921,"Cheyenne County, Kansas",1.8
+922,"Clark County, Kansas",1.8
+923,"Clay County, Kansas",2.6
+924,"Cloud County, Kansas",2.8
+925,"Coffey County, Kansas",3.2
+926,"Comanche County, Kansas",2.1
+927,"Cowley County, Kansas",3.4
+928,"Crawford County, Kansas",3.2
+929,"Decatur County, Kansas",2.6
+930,"Dickinson County, Kansas",3.0
+931,"Doniphan County, Kansas",2.7
+932,"Douglas County, Kansas",3.1
+933,"Edwards County, Kansas",2.1
+934,"Elk County, Kansas",2.8
+935,"Ellis County, Kansas",1.9
+936,"Ellsworth County, Kansas",2.2
+937,"Finney County, Kansas",2.1
+938,"Ford County, Kansas",2.1
+939,"Franklin County, Kansas",3.1
+940,"Geary County, Kansas",4.3
+941,"Gove County, Kansas",1.9
+942,"Graham County, Kansas",2.9
+943,"Grant County, Kansas",3.0
+944,"Gray County, Kansas",1.7
+945,"Greeley County, Kansas",1.2
+946,"Greenwood County, Kansas",2.8
+947,"Hamilton County, Kansas",1.4
+948,"Harper County, Kansas",2.6
+949,"Harvey County, Kansas",2.9
+950,"Haskell County, Kansas",1.8
+951,"Hodgeman County, Kansas",1.8
+952,"Jackson County, Kansas",2.6
+953,"Jefferson County, Kansas",3.0
+954,"Jewell County, Kansas",2.2
+955,"Johnson County, Kansas",2.7
+956,"Kearny County, Kansas",1.6
+957,"Kingman County, Kansas",3.1
+958,"Kiowa County, Kansas",2.1
+959,"Labette County, Kansas",3.4
+960,"Lane County, Kansas",2.0
+961,"Leavenworth County, Kansas",3.3
+962,"Lincoln County, Kansas",2.2
+963,"Linn County, Kansas",4.3
+964,"Logan County, Kansas",1.6
+965,"Lyon County, Kansas",2.8
+966,"McPherson County, Kansas",2.1
+967,"Marion County, Kansas",2.4
+968,"Marshall County, Kansas",1.9
+969,"Meade County, Kansas",2.2
+970,"Miami County, Kansas",2.9
+971,"Mitchell County, Kansas",2.0
+972,"Montgomery County, Kansas",3.9
+973,"Morris County, Kansas",2.4
+974,"Morton County, Kansas",2.6
+975,"Nemaha County, Kansas",1.8
+976,"Neosho County, Kansas",4.3
+977,"Ness County, Kansas",2.2
+978,"Norton County, Kansas",1.8
+979,"Osage County, Kansas",3.0
+980,"Osborne County, Kansas",1.8
+981,"Ottawa County, Kansas",2.8
+982,"Pawnee County, Kansas",2.2
+983,"Phillips County, Kansas",2.1
+984,"Pottawatomie County, Kansas",2.5
+985,"Pratt County, Kansas",2.2
+986,"Rawlins County, Kansas",1.6
+987,"Reno County, Kansas",3.2
+988,"Republic County, Kansas",2.3
+989,"Rice County, Kansas",2.4
+990,"Riley County, Kansas",2.8
+991,"Rooks County, Kansas",2.4
+992,"Rush County, Kansas",2.4
+993,"Russell County, Kansas",2.4
+994,"Saline County, Kansas",3.0
+995,"Scott County, Kansas",1.6
+996,"Sedgwick County, Kansas",4.6
+997,"Seward County, Kansas",2.8
+998,"Shawnee County, Kansas",3.1
+999,"Sheridan County, Kansas",1.8
+1000,"Sherman County, Kansas",2.5
+1001,"Smith County, Kansas",1.7
+1002,"Stafford County, Kansas",2.2
+1003,"Stanton County, Kansas",1.9
+1004,"Stevens County, Kansas",2.1
+1005,"Sumner County, Kansas",4.1
+1006,"Thomas County, Kansas",1.8
+1007,"Trego County, Kansas",2.1
+1008,"Wabaunsee County, Kansas",2.5
+1009,"Wallace County, Kansas",1.7
+1010,"Washington County, Kansas",1.7
+1011,"Wichita County, Kansas",2.0
+1012,"Wilson County, Kansas",4.0
+1013,"Woodson County, Kansas",3.5
+1014,"Wyandotte County, Kansas",4.7
+1015,Kentucky,4.7
+1016,"Adair County, Kentucky",5.0
+1017,"Allen County, Kentucky",4.0
+1018,"Anderson County, Kentucky",4.0
+1019,"Ballard County, Kentucky",5.0
+1020,"Barren County, Kentucky",5.3
+1021,"Bath County, Kentucky",5.8
+1022,"Bell County, Kentucky",5.7
+1023,"Boone County, Kentucky",3.8
+1024,"Bourbon County, Kentucky",3.9
+1025,"Boyd County, Kentucky",6.2
+1026,"Boyle County, Kentucky",5.0
+1027,"Bracken County, Kentucky",4.7
+1028,"Breathitt County, Kentucky",8.6
+1029,"Breckinridge County, Kentucky",5.2
+1030,"Bullitt County, Kentucky",4.6
+1031,"Butler County, Kentucky",4.6
+1032,"Caldwell County, Kentucky",4.2
+1033,"Calloway County, Kentucky",4.5
+1034,"Campbell County, Kentucky",4.0
+1035,"Carlisle County, Kentucky",3.8
+1036,"Carroll County, Kentucky",4.1
+1037,"Carter County, Kentucky",7.8
+1038,"Casey County, Kentucky",4.1
+1039,"Christian County, Kentucky",5.8
+1040,"Clark County, Kentucky",4.4
+1041,"Clay County, Kentucky",6.8
+1042,"Clinton County, Kentucky",4.4
+1043,"Crittenden County, Kentucky",4.3
+1044,"Cumberland County, Kentucky",3.5
+1045,"Daviess County, Kentucky",4.3
+1046,"Edmonson County, Kentucky",5.1
+1047,"Elliott County, Kentucky",8.4
+1048,"Estill County, Kentucky",5.2
+1049,"Fayette County, Kentucky",3.9
+1050,"Fleming County, Kentucky",4.9
+1051,"Floyd County, Kentucky",7.1
+1052,"Franklin County, Kentucky",4.4
+1053,"Fulton County, Kentucky",5.3
+1054,"Gallatin County, Kentucky",4.3
+1055,"Garrard County, Kentucky",4.5
+1056,"Grant County, Kentucky",4.5
+1057,"Graves County, Kentucky",4.4
+1058,"Grayson County, Kentucky",5.6
+1059,"Green County, Kentucky",3.7
+1060,"Greenup County, Kentucky",6.8
+1061,"Hancock County, Kentucky",4.4
+1062,"Hardin County, Kentucky",4.7
+1063,"Harlan County, Kentucky",8.6
+1064,"Harrison County, Kentucky",3.9
+1065,"Hart County, Kentucky",4.4
+1066,"Henderson County, Kentucky",4.5
+1067,"Henry County, Kentucky",4.0
+1068,"Hickman County, Kentucky",4.5
+1069,"Hopkins County, Kentucky",5.1
+1070,"Jackson County, Kentucky",6.3
+1071,"Jefferson County, Kentucky",4.8
+1072,"Jessamine County, Kentucky",4.0
+1073,"Johnson County, Kentucky",7.3
+1074,"Kenton County, Kentucky",4.2
+1075,"Knott County, Kentucky",7.2
+1076,"Knox County, Kentucky",6.2
+1077,"Larue County, Kentucky",4.9
+1078,"Laurel County, Kentucky",4.5
+1079,"Lawrence County, Kentucky",6.4
+1080,"Lee County, Kentucky",5.6
+1081,"Leslie County, Kentucky",8.1
+1082,"Letcher County, Kentucky",7.6
+1083,"Lewis County, Kentucky",7.6
+1084,"Lincoln County, Kentucky",5.6
+1085,"Livingston County, Kentucky",6.1
+1086,"Logan County, Kentucky",3.8
+1087,"Lyon County, Kentucky",4.5
+1088,"McCracken County, Kentucky",5.0
+1089,"McCreary County, Kentucky",5.7
+1090,"McLean County, Kentucky",4.3
+1091,"Madison County, Kentucky",4.1
+1092,"Magoffin County, Kentucky",12.5
+1093,"Marion County, Kentucky",4.4
+1094,"Marshall County, Kentucky",4.7
+1095,"Martin County, Kentucky",9.3
+1096,"Mason County, Kentucky",5.5
+1097,"Meade County, Kentucky",5.3
+1098,"Menifee County, Kentucky",6.9
+1099,"Mercer County, Kentucky",4.6
+1100,"Metcalfe County, Kentucky",5.4
+1101,"Monroe County, Kentucky",4.0
+1102,"Montgomery County, Kentucky",5.3
+1103,"Morgan County, Kentucky",5.8
+1104,"Muhlenberg County, Kentucky",6.6
+1105,"Nelson County, Kentucky",4.3
+1106,"Nicholas County, Kentucky",4.3
+1107,"Ohio County, Kentucky",5.5
+1108,"Oldham County, Kentucky",3.6
+1109,"Owen County, Kentucky",4.3
+1110,"Owsley County, Kentucky",7.0
+1111,"Pendleton County, Kentucky",4.1
+1112,"Perry County, Kentucky",6.3
+1113,"Pike County, Kentucky",6.4
+1114,"Powell County, Kentucky",4.8
+1115,"Pulaski County, Kentucky",4.9
+1116,"Robertson County, Kentucky",4.2
+1117,"Rockcastle County, Kentucky",5.0
+1118,"Rowan County, Kentucky",5.3
+1119,"Russell County, Kentucky",5.4
+1120,"Scott County, Kentucky",3.7
+1121,"Shelby County, Kentucky",3.8
+1122,"Simpson County, Kentucky",4.2
+1123,"Spencer County, Kentucky",4.2
+1124,"Taylor County, Kentucky",3.9
+1125,"Todd County, Kentucky",3.6
+1126,"Trigg County, Kentucky",5.1
+1127,"Trimble County, Kentucky",4.8
+1128,"Union County, Kentucky",4.4
+1129,"Warren County, Kentucky",4.3
+1130,"Washington County, Kentucky",3.9
+1131,"Wayne County, Kentucky",5.1
+1132,"Webster County, Kentucky",4.5
+1133,"Whitley County, Kentucky",5.0
+1134,"Wolfe County, Kentucky",5.9
+1135,"Woodford County, Kentucky",3.4
+1136,Louisiana,5.5
+1137,"Acadia Parish, Louisiana",4.9
+1138,"Allen Parish, Louisiana",5.5
+1139,"Ascension Parish, Louisiana",4.2
+1140,"Assumption Parish, Louisiana",7.2
+1141,"Avoyelles Parish, Louisiana",5.2
+1142,"Beauregard Parish, Louisiana",4.1
+1143,"Bienville Parish, Louisiana",5.7
+1144,"Bossier Parish, Louisiana",3.9
+1145,"Caddo Parish, Louisiana",6.2
+1146,"Calcasieu Parish, Louisiana",5.6
+1147,"Caldwell Parish, Louisiana",4.6
+1148,"Cameron Parish, Louisiana",3.5
+1149,"Catahoula Parish, Louisiana",5.1
+1150,"Claiborne Parish, Louisiana",4.9
+1151,"Concordia Parish, Louisiana",5.9
+1152,"De Soto Parish, Louisiana",4.8
+1153,"East Baton Rouge Parish, Louisiana",5.3
+1154,"East Carroll Parish, Louisiana",9.9
+1155,"East Feliciana Parish, Louisiana",4.5
+1156,"Evangeline Parish, Louisiana",5.4
+1157,"Franklin Parish, Louisiana",5.8
+1158,"Grant Parish, Louisiana",4.0
+1159,"Iberia Parish, Louisiana",6.9
+1160,"Iberville Parish, Louisiana",7.2
+1161,"Jackson Parish, Louisiana",3.8
+1162,"Jefferson Parish, Louisiana",6.0
+1163,"Jefferson Davis Parish, Louisiana",4.7
+1164,"Lafayette Parish, Louisiana",4.5
+1165,"Lafourche Parish, Louisiana",4.6
+1166,"LaSalle Parish, Louisiana",3.3
+1167,"Lincoln Parish, Louisiana",4.3
+1168,"Livingston Parish, Louisiana",3.8
+1169,"Madison Parish, Louisiana",6.7
+1170,"Morehouse Parish, Louisiana",7.3
+1171,"Natchitoches Parish, Louisiana",4.7
+1172,"Orleans Parish, Louisiana",8.3
+1173,"Ouachita Parish, Louisiana",5.0
+1174,"Plaquemines Parish, Louisiana",4.3
+1175,"Pointe Coupee Parish, Louisiana",5.7
+1176,"Rapides Parish, Louisiana",4.0
+1177,"Red River Parish, Louisiana",4.3
+1178,"Richland Parish, Louisiana",5.2
+1179,"Sabine Parish, Louisiana",3.7
+1180,"St. Bernard Parish, Louisiana",6.8
+1181,"St. Charles Parish, Louisiana",5.0
+1182,"St. Helena Parish, Louisiana",9.2
+1183,"St. James Parish, Louisiana",7.4
+1184,"St. John the Baptist Parish, Louisiana",8.5
+1185,"St. Landry Parish, Louisiana",6.3
+1186,"St. Martin Parish, Louisiana",5.6
+1187,"St. Mary Parish, Louisiana",6.7
+1188,"St. Tammany Parish, Louisiana",3.8
+1189,"Tangipahoa Parish, Louisiana",6.4
+1190,"Tensas Parish, Louisiana",5.9
+1191,"Terrebonne Parish, Louisiana",5.8
+1192,"Union Parish, Louisiana",4.8
+1193,"Vermilion Parish, Louisiana",5.0
+1194,"Vernon Parish, Louisiana",4.6
+1195,"Washington Parish, Louisiana",5.9
+1196,"Webster Parish, Louisiana",5.5
+1197,"West Baton Rouge Parish, Louisiana",4.9
+1198,"West Carroll Parish, Louisiana",6.3
+1199,"West Feliciana Parish, Louisiana",3.7
+1200,"Winn Parish, Louisiana",4.8
+1201,Maine,4.6
+1202,"Androscoggin County, Maine",4.9
+1203,"Aroostook County, Maine",5.7
+1204,"Cumberland County, Maine",4.0
+1205,"Franklin County, Maine",5.3
+1206,"Hancock County, Maine",5.0
+1207,"Kennebec County, Maine",4.3
+1208,"Knox County, Maine",4.4
+1209,"Lincoln County, Maine",4.4
+1210,"Oxford County, Maine",5.6
+1211,"Penobscot County, Maine",4.7
+1212,"Piscataquis County, Maine",5.0
+1213,"Sagadahoc County, Maine",3.7
+1214,"Somerset County, Maine",6.3
+1215,"Waldo County, Maine",4.7
+1216,"Washington County, Maine",6.5
+1217,"York County, Maine",4.5
+1218,Maryland,5.8
+1219,"Allegany County, Maryland",6.4
+1220,"Anne Arundel County, Maryland",4.7
+1221,"Baltimore County, Maryland",5.7
+1222,"Calvert County, Maryland",4.6
+1223,"Caroline County, Maryland",4.7
+1224,"Carroll County, Maryland",4.2
+1225,"Cecil County, Maryland",5.2
+1226,"Charles County, Maryland",5.7
+1227,"Dorchester County, Maryland",5.6
+1228,"Frederick County, Maryland",4.8
+1229,"Garrett County, Maryland",5.2
+1230,"Harford County, Maryland",4.8
+1231,"Howard County, Maryland",4.3
+1232,"Kent County, Maryland",5.5
+1233,"Montgomery County, Maryland",5.5
+1234,"Prince George's County, Maryland",7.5
+1235,"Queen Anne's County, Maryland",4.4
+1236,"St. Mary's County, Maryland",4.5
+1237,"Somerset County, Maryland",7.6
+1238,"Talbot County, Maryland",5.3
+1239,"Washington County, Maryland",5.4
+1240,"Wicomico County, Maryland",6.1
+1241,"Worcester County, Maryland",8.2
+1242,"Baltimore city, Maryland",7.6
+1243,Massachusetts,5.7
+1244,"Barnstable County, Massachusetts",6.7
+1245,"Berkshire County, Massachusetts",6.7
+1246,"Bristol County, Massachusetts",6.5
+1247,"Dukes County, Massachusetts",6.5
+1248,"Essex County, Massachusetts",6.4
+1249,"Franklin County, Massachusetts",5.0
+1250,"Hampden County, Massachusetts",7.6
+1251,"Hampshire County, Massachusetts",4.7
+1252,"Middlesex County, Massachusetts",4.6
+1253,"Nantucket County/town, Massachusetts",7.7
+1254,"Norfolk County, Massachusetts",5.1
+1255,"Plymouth County, Massachusetts",6.1
+1256,"Suffolk County, Massachusetts",6.0
+1257,"Worcester County, Massachusetts",5.9
+1258,Michigan,5.9
+1259,"Alcona County, Michigan",7.1
+1260,"Alger County, Michigan",8.0
+1261,"Allegan County, Michigan",4.7
+1262,"Alpena County, Michigan",5.5
+1263,"Antrim County, Michigan",7.0
+1264,"Arenac County, Michigan",8.3
+1265,"Baraga County, Michigan",7.9
+1266,"Barry County, Michigan",4.6
+1267,"Bay County, Michigan",6.1
+1268,"Benzie County, Michigan",6.0
+1269,"Berrien County, Michigan",5.8
+1270,"Branch County, Michigan",5.0
+1271,"Calhoun County, Michigan",6.6
+1272,"Cass County, Michigan",5.1
+1273,"Charlevoix County, Michigan",6.0
+1274,"Cheboygan County, Michigan",8.3
+1275,"Chippewa County, Michigan",6.5
+1276,"Clare County, Michigan",8.0
+1277,"Clinton County, Michigan",4.4
+1278,"Crawford County, Michigan",7.1
+1279,"Delta County, Michigan",6.2
+1280,"Dickinson County, Michigan",4.8
+1281,"Eaton County, Michigan",5.3
+1282,"Emmet County, Michigan",6.4
+1283,"Genesee County, Michigan",7.6
+1284,"Gladwin County, Michigan",7.1
+1285,"Gogebic County, Michigan",5.5
+1286,"Grand Traverse County, Michigan",5.0
+1287,"Gratiot County, Michigan",5.6
+1288,"Hillsdale County, Michigan",5.5
+1289,"Houghton County, Michigan",5.0
+1290,"Huron County, Michigan",5.4
+1291,"Ingham County, Michigan",5.6
+1292,"Ionia County, Michigan",4.8
+1293,"Iosco County, Michigan",7.2
+1294,"Iron County, Michigan",6.1
+1295,"Isabella County, Michigan",5.3
+1296,"Jackson County, Michigan",5.7
+1297,"Kalamazoo County, Michigan",5.0
+1298,"Kalkaska County, Michigan",7.3
+1299,"Kent County, Michigan",4.7
+1300,"Keweenaw County, Michigan",6.7
+1301,"Lake County, Michigan",8.2
+1302,"Lapeer County, Michigan",6.1
+1303,"Leelanau County, Michigan",5.2
+1304,"Lenawee County, Michigan",5.5
+1305,"Livingston County, Michigan",4.2
+1306,"Luce County, Michigan",7.1
+1307,"Mackinac County, Michigan",8.6
+1308,"Macomb County, Michigan",5.9
+1309,"Manistee County, Michigan",7.3
+1310,"Marquette County, Michigan",5.4
+1311,"Mason County, Michigan",6.4
+1312,"Mecosta County, Michigan",6.4
+1313,"Menominee County, Michigan",4.5
+1314,"Midland County, Michigan",4.9
+1315,"Missaukee County, Michigan",5.6
+1316,"Monroe County, Michigan",6.0
+1317,"Montcalm County, Michigan",5.6
+1318,"Montmorency County, Michigan",9.4
+1319,"Muskegon County, Michigan",7.5
+1320,"Newaygo County, Michigan",5.6
+1321,"Oakland County, Michigan",4.7
+1322,"Oceana County, Michigan",7.4
+1323,"Ogemaw County, Michigan",7.8
+1324,"Ontonagon County, Michigan",7.6
+1325,"Osceola County, Michigan",5.5
+1326,"Oscoda County, Michigan",9.1
+1327,"Otsego County, Michigan",6.8
+1328,"Ottawa County, Michigan",4.1
+1329,"Presque Isle County, Michigan",7.9
+1330,"Roscommon County, Michigan",9.6
+1331,"Saginaw County, Michigan",7.1
+1332,"St. Clair County, Michigan",5.9
+1333,"St. Joseph County, Michigan",5.1
+1334,"Sanilac County, Michigan",6.1
+1335,"Schoolcraft County, Michigan",8.0
+1336,"Shiawassee County, Michigan",5.7
+1337,"Tuscola County, Michigan",6.3
+1338,"Van Buren County, Michigan",6.1
+1339,"Washtenaw County, Michigan",4.3
+1340,"Wayne County, Michigan",8.0
+1341,"Wexford County, Michigan",6.0
+1342,Minnesota,3.4
+1343,"Aitkin County, Minnesota",4.7
+1344,"Anoka County, Minnesota",3.4
+1345,"Becker County, Minnesota",3.4
+1346,"Beltrami County, Minnesota",3.7
+1347,"Benton County, Minnesota",4.3
+1348,"Big Stone County, Minnesota",3.5
+1349,"Blue Earth County, Minnesota",3.1
+1350,"Brown County, Minnesota",3.1
+1351,"Carlton County, Minnesota",4.0
+1352,"Carver County, Minnesota",2.7
+1353,"Cass County, Minnesota",4.4
+1354,"Chippewa County, Minnesota",3.0
+1355,"Chisago County, Minnesota",3.7
+1356,"Clay County, Minnesota",2.7
+1357,"Clearwater County, Minnesota",5.8
+1358,"Cook County, Minnesota",4.5
+1359,"Cottonwood County, Minnesota",3.4
+1360,"Crow Wing County, Minnesota",4.0
+1361,"Dakota County, Minnesota",3.1
+1362,"Dodge County, Minnesota",3.1
+1363,"Douglas County, Minnesota",2.8
+1364,"Faribault County, Minnesota",3.8
+1365,"Fillmore County, Minnesota",3.0
+1366,"Freeborn County, Minnesota",3.5
+1367,"Goodhue County, Minnesota",3.2
+1368,"Grant County, Minnesota",3.7
+1369,"Hennepin County, Minnesota",3.4
+1370,"Houston County, Minnesota",2.9
+1371,"Hubbard County, Minnesota",4.1
+1372,"Isanti County, Minnesota",4.1
+1373,"Itasca County, Minnesota",4.7
+1374,"Jackson County, Minnesota",3.1
+1375,"Kanabec County, Minnesota",5.3
+1376,"Kandiyohi County, Minnesota",3.6
+1377,"Kittson County, Minnesota",2.9
+1378,"Koochiching County, Minnesota",4.4
+1379,"Lac qui Parle County, Minnesota",2.8
+1380,"Lake County, Minnesota",3.6
+1381,"Lake of the Woods County, Minnesota",3.7
+1382,"Le Sueur County, Minnesota",4.1
+1383,"Lincoln County, Minnesota",3.3
+1384,"Lyon County, Minnesota",2.7
+1385,"McLeod County, Minnesota",3.4
+1386,"Mahnomen County, Minnesota",5.9
+1387,"Marshall County, Minnesota",4.2
+1388,"Martin County, Minnesota",3.2
+1389,"Meeker County, Minnesota",3.4
+1390,"Mille Lacs County, Minnesota",5.2
+1391,"Morrison County, Minnesota",4.4
+1392,"Mower County, Minnesota",3.1
+1393,"Murray County, Minnesota",3.8
+1394,"Nicollet County, Minnesota",2.8
+1395,"Nobles County, Minnesota",2.9
+1396,"Norman County, Minnesota",3.9
+1397,"Olmsted County, Minnesota",2.8
+1398,"Otter Tail County, Minnesota",3.4
+1399,"Pennington County, Minnesota",3.7
+1400,"Pine County, Minnesota",5.0
+1401,"Pipestone County, Minnesota",2.9
+1402,"Polk County, Minnesota",3.8
+1403,"Pope County, Minnesota",2.8
+1404,"Ramsey County, Minnesota",3.8
+1405,"Red Lake County, Minnesota",4.0
+1406,"Redwood County, Minnesota",3.4
+1407,"Renville County, Minnesota",3.9
+1408,"Rice County, Minnesota",3.2
+1409,"Rock County, Minnesota",1.9
+1410,"Roseau County, Minnesota",2.9
+1411,"St. Louis County, Minnesota",3.8
+1412,"Scott County, Minnesota",3.0
+1413,"Sherburne County, Minnesota",3.5
+1414,"Sibley County, Minnesota",3.6
+1415,"Stearns County, Minnesota",3.6
+1416,"Steele County, Minnesota",3.3
+1417,"Stevens County, Minnesota",2.4
+1418,"Swift County, Minnesota",3.7
+1419,"Todd County, Minnesota",3.7
+1420,"Traverse County, Minnesota",3.1
+1421,"Wabasha County, Minnesota",3.0
+1422,"Wadena County, Minnesota",4.5
+1423,"Waseca County, Minnesota",3.9
+1424,"Washington County, Minnesota",2.9
+1425,"Watonwan County, Minnesota",3.0
+1426,"Wilkin County, Minnesota",2.8
+1427,"Winona County, Minnesota",2.9
+1428,"Wright County, Minnesota",3.1
+1429,"Yellow Medicine County, Minnesota",3.0
+1430,Mississippi,5.6
+1431,"Adams County, Mississippi",8.2
+1432,"Alcorn County, Mississippi",4.8
+1433,"Amite County, Mississippi",7.3
+1434,"Attala County, Mississippi",6.0
+1435,"Benton County, Mississippi",6.4
+1436,"Bolivar County, Mississippi",6.9
+1437,"Calhoun County, Mississippi",5.2
+1438,"Carroll County, Mississippi",5.8
+1439,"Chickasaw County, Mississippi",6.3
+1440,"Choctaw County, Mississippi",4.8
+1441,"Claiborne County, Mississippi",11.7
+1442,"Clarke County, Mississippi",6.3
+1443,"Clay County, Mississippi",7.2
+1444,"Coahoma County, Mississippi",8.8
+1445,"Copiah County, Mississippi",6.5
+1446,"Covington County, Mississippi",5.1
+1447,"DeSoto County, Mississippi",4.4
+1448,"Forrest County, Mississippi",5.7
+1449,"Franklin County, Mississippi",6.8
+1450,"George County, Mississippi",7.0
+1451,"Greene County, Mississippi",7.6
+1452,"Grenada County, Mississippi",5.0
+1453,"Hancock County, Mississippi",5.8
+1454,"Harrison County, Mississippi",5.5
+1455,"Hinds County, Mississippi",6.2
+1456,"Holmes County, Mississippi",11.0
+1457,"Humphreys County, Mississippi",12.7
+1458,"Issaquena County, Mississippi",9.3
+1459,"Itawamba County, Mississippi",4.3
+1460,"Jackson County, Mississippi",6.0
+1461,"Jasper County, Mississippi",7.3
+1462,"Jefferson County, Mississippi",16.6
+1463,"Jefferson Davis County, Mississippi",7.7
+1464,"Jones County, Mississippi",5.7
+1465,"Kemper County, Mississippi",7.4
+1466,"Lafayette County, Mississippi",4.1
+1467,"Lamar County, Mississippi",4.1
+1468,"Lauderdale County, Mississippi",5.4
+1469,"Lawrence County, Mississippi",6.9
+1470,"Leake County, Mississippi",5.6
+1471,"Lee County, Mississippi",4.6
+1472,"Leflore County, Mississippi",8.1
+1473,"Lincoln County, Mississippi",5.0
+1474,"Lowndes County, Mississippi",5.9
+1475,"Madison County, Mississippi",4.3
+1476,"Marion County, Mississippi",5.3
+1477,"Marshall County, Mississippi",5.8
+1478,"Monroe County, Mississippi",5.2
+1479,"Montgomery County, Mississippi",6.1
+1480,"Neshoba County, Mississippi",5.6
+1481,"Newton County, Mississippi",5.4
+1482,"Noxubee County, Mississippi",8.9
+1483,"Oktibbeha County, Mississippi",5.5
+1484,"Panola County, Mississippi",7.1
+1485,"Pearl River County, Mississippi",5.6
+1486,"Perry County, Mississippi",6.5
+1487,"Pike County, Mississippi",7.1
+1488,"Pontotoc County, Mississippi",4.4
+1489,"Prentiss County, Mississippi",4.4
+1490,"Quitman County, Mississippi",8.5
+1491,"Rankin County, Mississippi",3.6
+1492,"Scott County, Mississippi",4.7
+1493,"Sharkey County, Mississippi",9.4
+1494,"Simpson County, Mississippi",5.2
+1495,"Smith County, Mississippi",4.5
+1496,"Stone County, Mississippi",5.4
+1497,"Sunflower County, Mississippi",9.1
+1498,"Tallahatchie County, Mississippi",6.1
+1499,"Tate County, Mississippi",5.6
+1500,"Tippah County, Mississippi",4.6
+1501,"Tishomingo County, Mississippi",4.6
+1502,"Tunica County, Mississippi",8.9
+1503,"Union County, Mississippi",4.1
+1504,"Walthall County, Mississippi",6.9
+1505,"Warren County, Mississippi",6.2
+1506,"Washington County, Mississippi",8.2
+1507,"Wayne County, Mississippi",6.7
+1508,"Webster County, Mississippi",5.4
+1509,"Wilkinson County, Mississippi",11.1
+1510,"Winston County, Mississippi",6.2
+1511,"Yalobusha County, Mississippi",5.5
+1512,"Yazoo County, Mississippi",7.3
+1513,Missouri,4.4
+1514,"Adair County, Missouri",4.3
+1515,"Andrew County, Missouri",3.0
+1516,"Atchison County, Missouri",3.2
+1517,"Audrain County, Missouri",3.7
+1518,"Barry County, Missouri",4.6
+1519,"Barton County, Missouri",3.4
+1520,"Bates County, Missouri",4.3
+1521,"Benton County, Missouri",5.7
+1522,"Bollinger County, Missouri",4.2
+1523,"Boone County, Missouri",3.0
+1524,"Buchanan County, Missouri",3.8
+1525,"Butler County, Missouri",4.7
+1526,"Caldwell County, Missouri",5.1
+1527,"Callaway County, Missouri",3.4
+1528,"Camden County, Missouri",5.0
+1529,"Cape Girardeau County, Missouri",3.6
+1530,"Carroll County, Missouri",4.4
+1531,"Carter County, Missouri",5.2
+1532,"Cass County, Missouri",3.9
+1533,"Cedar County, Missouri",3.7
+1534,"Chariton County, Missouri",3.3
+1535,"Christian County, Missouri",3.2
+1536,"Clark County, Missouri",4.6
+1537,"Clay County, Missouri",4.9
+1538,"Clinton County, Missouri",5.3
+1539,"Cole County, Missouri",3.1
+1540,"Cooper County, Missouri",3.6
+1541,"Crawford County, Missouri",4.5
+1542,"Dade County, Missouri",3.3
+1543,"Dallas County, Missouri",4.3
+1544,"Daviess County, Missouri",3.8
+1545,"DeKalb County, Missouri",3.8
+1546,"Dent County, Missouri",4.3
+1547,"Douglas County, Missouri",4.3
+1548,"Dunklin County, Missouri",6.1
+1549,"Franklin County, Missouri",4.0
+1550,"Gasconade County, Missouri",3.6
+1551,"Gentry County, Missouri",2.7
+1552,"Greene County, Missouri",3.4
+1553,"Grundy County, Missouri",3.6
+1554,"Harrison County, Missouri",3.5
+1555,"Henry County, Missouri",4.0
+1556,"Hickory County, Missouri",4.0
+1557,"Holt County, Missouri",2.9
+1558,"Howard County, Missouri",3.2
+1559,"Howell County, Missouri",4.8
+1560,"Iron County, Missouri",5.8
+1561,"Jackson County, Missouri",5.5
+1562,"Jasper County, Missouri",3.7
+1563,"Jefferson County, Missouri",4.1
+1564,"Johnson County, Missouri",4.4
+1565,"Knox County, Missouri",3.1
+1566,"Laclede County, Missouri",4.3
+1567,"Lafayette County, Missouri",4.3
+1568,"Lawrence County, Missouri",4.0
+1569,"Lewis County, Missouri",3.5
+1570,"Lincoln County, Missouri",4.6
+1571,"Linn County, Missouri",5.4
+1572,"Livingston County, Missouri",3.0
+1573,"McDonald County, Missouri",3.9
+1574,"Macon County, Missouri",3.7
+1575,"Madison County, Missouri",4.4
+1576,"Maries County, Missouri",3.8
+1577,"Marion County, Missouri",3.5
+1578,"Mercer County, Missouri",2.9
+1579,"Miller County, Missouri",4.1
+1580,"Mississippi County, Missouri",4.7
+1581,"Moniteau County, Missouri",3.4
+1582,"Monroe County, Missouri",4.4
+1583,"Montgomery County, Missouri",3.7
+1584,"Morgan County, Missouri",4.7
+1585,"New Madrid County, Missouri",4.8
+1586,"Newton County, Missouri",3.8
+1587,"Nodaway County, Missouri",2.9
+1588,"Oregon County, Missouri",5.3
+1589,"Osage County, Missouri",2.6
+1590,"Ozark County, Missouri",5.5
+1591,"Pemiscot County, Missouri",7.3
+1592,"Perry County, Missouri",3.2
+1593,"Pettis County, Missouri",4.7
+1594,"Phelps County, Missouri",3.7
+1595,"Pike County, Missouri",3.9
+1596,"Platte County, Missouri",4.0
+1597,"Polk County, Missouri",3.5
+1598,"Pulaski County, Missouri",4.4
+1599,"Putnam County, Missouri",3.1
+1600,"Ralls County, Missouri",3.4
+1601,"Randolph County, Missouri",4.2
+1602,"Ray County, Missouri",6.5
+1603,"Reynolds County, Missouri",4.1
+1604,"Ripley County, Missouri",5.5
+1605,"St. Charles County, Missouri",3.5
+1606,"St. Clair County, Missouri",4.5
+1607,"Ste. Genevieve County, Missouri",3.4
+1608,"St. Francois County, Missouri",4.8
+1609,"St. Louis County, Missouri",4.5
+1610,"Saline County, Missouri",3.5
+1611,"Schuyler County, Missouri",4.3
+1612,"Scotland County, Missouri",2.6
+1613,"Scott County, Missouri",3.9
+1614,"Shannon County, Missouri",5.6
+1615,"Shelby County, Missouri",3.3
+1616,"Stoddard County, Missouri",4.5
+1617,"Stone County, Missouri",6.6
+1618,"Sullivan County, Missouri",4.9
+1619,"Taney County, Missouri",7.5
+1620,"Texas County, Missouri",4.6
+1621,"Vernon County, Missouri",3.4
+1622,"Warren County, Missouri",4.1
+1623,"Washington County, Missouri",5.1
+1624,"Wayne County, Missouri",5.0
+1625,"Webster County, Missouri",3.4
+1626,"Worth County, Missouri",2.5
+1627,"Wright County, Missouri",4.0
+1628,"St. Louis city, Missouri",6.4
+1629,Montana,3.4
+1630,"Beaverhead County, Montana",2.8
+1631,"Big Horn County, Montana",7.8
+1632,"Blaine County, Montana",3.8
+1633,"Broadwater County, Montana",4.0
+1634,"Carbon County, Montana",3.4
+1635,"Carter County, Montana",2.6
+1636,"Cascade County, Montana",3.3
+1637,"Chouteau County, Montana",2.7
+1638,"Custer County, Montana",3.1
+1639,"Daniels County, Montana",1.9
+1640,"Dawson County, Montana",3.1
+1641,"Deer Lodge County, Montana",3.3
+1642,"Fallon County, Montana",2.6
+1643,"Fergus County, Montana",3.3
+1644,"Flathead County, Montana",4.0
+1645,"Gallatin County, Montana",2.4
+1646,"Garfield County, Montana",2.6
+1647,"Glacier County, Montana",7.0
+1648,"Golden Valley County, Montana",3.5
+1649,"Granite County, Montana",4.4
+1650,"Hill County, Montana",3.1
+1651,"Jefferson County, Montana",3.2
+1652,"Judith Basin County, Montana",2.7
+1653,"Lake County, Montana",3.8
+1654,"Lewis and Clark County, Montana",3.0
+1655,"Liberty County, Montana",2.4
+1656,"Lincoln County, Montana",6.0
+1657,"McCone County, Montana",1.8
+1658,"Madison County, Montana",3.2
+1659,"Meagher County, Montana",2.5
+1660,"Mineral County, Montana",5.3
+1661,"Missoula County, Montana",3.4
+1662,"Musselshell County, Montana",4.2
+1663,"Park County, Montana",3.5
+1664,"Petroleum County, Montana",2.6
+1665,"Phillips County, Montana",3.8
+1666,"Pondera County, Montana",3.2
+1667,"Powder River County, Montana",2.7
+1668,"Powell County, Montana",2.6
+1669,"Prairie County, Montana",3.6
+1670,"Ravalli County, Montana",3.6
+1671,"Richland County, Montana",4.0
+1672,"Roosevelt County, Montana",4.2
+1673,"Rosebud County, Montana",4.0
+1674,"Sanders County, Montana",4.8
+1675,"Sheridan County, Montana",3.3
+1676,"Silver Bow County, Montana",3.6
+1677,"Stillwater County, Montana",2.9
+1678,"Sweet Grass County, Montana",2.4
+1679,"Teton County, Montana",3.1
+1680,"Toole County, Montana",2.6
+1681,"Treasure County, Montana",3.2
+1682,"Valley County, Montana",3.1
+1683,"Wheatland County, Montana",5.3
+1684,"Wibaux County, Montana",3.8
+1685,"Yellowstone County, Montana",3.2
+1686,Nebraska,2.5
+1687,"Adams County, Nebraska",2.4
+1688,"Antelope County, Nebraska",1.7
+1689,"Arthur County, Nebraska",2.6
+1690,"Banner County, Nebraska",2.1
+1691,"Blaine County, Nebraska",2.4
+1692,"Boone County, Nebraska",1.6
+1693,"Box Butte County, Nebraska",2.4
+1694,"Boyd County, Nebraska",2.0
+1695,"Brown County, Nebraska",2.3
+1696,"Buffalo County, Nebraska",2.0
+1697,"Burt County, Nebraska",2.4
+1698,"Butler County, Nebraska",2.2
+1699,"Cass County, Nebraska",2.7
+1700,"Cedar County, Nebraska",1.8
+1701,"Chase County, Nebraska",1.6
+1702,"Cherry County, Nebraska",1.6
+1703,"Cheyenne County, Nebraska",2.8
+1704,"Clay County, Nebraska",2.3
+1705,"Colfax County, Nebraska",1.9
+1706,"Cuming County, Nebraska",1.7
+1707,"Custer County, Nebraska",1.6
+1708,"Dakota County, Nebraska",3.0
+1709,"Dawes County, Nebraska",1.9
+1710,"Dawson County, Nebraska",2.1
+1711,"Deuel County, Nebraska",2.1
+1712,"Dixon County, Nebraska",2.1
+1713,"Dodge County, Nebraska",2.4
+1714,"Douglas County, Nebraska",3.0
+1715,"Dundy County, Nebraska",1.6
+1716,"Fillmore County, Nebraska",1.9
+1717,"Franklin County, Nebraska",2.2
+1718,"Frontier County, Nebraska",1.7
+1719,"Furnas County, Nebraska",1.9
+1720,"Gage County, Nebraska",2.4
+1721,"Garden County, Nebraska",2.1
+1722,"Garfield County, Nebraska",2.0
+1723,"Gosper County, Nebraska",1.7
+1724,"Grant County, Nebraska",1.4
+1725,"Greeley County, Nebraska",1.9
+1726,"Hall County, Nebraska",2.9
+1727,"Hamilton County, Nebraska",2.1
+1728,"Harlan County, Nebraska",1.9
+1729,"Hayes County, Nebraska",1.3
+1730,"Hitchcock County, Nebraska",2.3
+1731,"Holt County, Nebraska",1.7
+1732,"Hooker County, Nebraska",1.6
+1733,"Howard County, Nebraska",2.2
+1734,"Jefferson County, Nebraska",1.8
+1735,"Johnson County, Nebraska",2.9
+1736,"Kearney County, Nebraska",1.8
+1737,"Keith County, Nebraska",2.0
+1738,"Keya Paha County, Nebraska",1.7
+1739,"Kimball County, Nebraska",2.2
+1740,"Knox County, Nebraska",2.0
+1741,"Lancaster County, Nebraska",2.4
+1742,"Lincoln County, Nebraska",2.2
+1743,"Logan County, Nebraska",1.7
+1744,"Loup County, Nebraska",2.0
+1745,"McPherson County, Nebraska",1.6
+1746,"Madison County, Nebraska",2.4
+1747,"Merrick County, Nebraska",2.3
+1748,"Morrill County, Nebraska",2.5
+1749,"Nance County, Nebraska",1.9
+1750,"Nemaha County, Nebraska",2.2
+1751,"Nuckolls County, Nebraska",1.8
+1752,"Otoe County, Nebraska",2.3
+1753,"Pawnee County, Nebraska",1.8
+1754,"Perkins County, Nebraska",1.4
+1755,"Phelps County, Nebraska",1.7
+1756,"Pierce County, Nebraska",2.1
+1757,"Platte County, Nebraska",2.1
+1758,"Polk County, Nebraska",1.9
+1759,"Red Willow County, Nebraska",2.0
+1760,"Richardson County, Nebraska",2.4
+1761,"Rock County, Nebraska",1.3
+1762,"Saline County, Nebraska",2.3
+1763,"Sarpy County, Nebraska",2.4
+1764,"Saunders County, Nebraska",2.2
+1765,"Scotts Bluff County, Nebraska",2.8
+1766,"Seward County, Nebraska",2.5
+1767,"Sheridan County, Nebraska",1.8
+1768,"Sherman County, Nebraska",2.1
+1769,"Sioux County, Nebraska",1.8
+1770,"Stanton County, Nebraska",2.1
+1771,"Thayer County, Nebraska",1.7
+1772,"Thomas County, Nebraska",2.6
+1773,"Thurston County, Nebraska",3.3
+1774,"Valley County, Nebraska",2.1
+1775,"Washington County, Nebraska",2.3
+1776,"Wayne County, Nebraska",1.9
+1777,"Webster County, Nebraska",2.0
+1778,"Wheeler County, Nebraska",1.2
+1779,"York County, Nebraska",1.9
+1780,Nevada,7.2
+1781,"Churchill County, Nevada",3.5
+1782,"Clark County, Nevada",8.3
+1783,"Douglas County, Nevada",4.5
+1784,"Elko County, Nevada",3.3
+1785,"Esmeralda County, Nevada",3.8
+1786,"Eureka County, Nevada",2.6
+1787,"Humboldt County, Nevada",3.4
+1788,"Lander County, Nevada",3.6
+1789,"Lincoln County, Nevada",3.4
+1790,"Lyon County, Nevada",5.2
+1791,"Mineral County, Nevada",3.8
+1792,"Nye County, Nevada",6.1
+1793,"Pershing County, Nevada",3.6
+1794,"Storey County, Nevada",4.6
+1795,"Washoe County, Nevada",4.3
+1796,"White Pine County, Nevada",3.0
+1797,"Carson City, Nevada",4.8
+1798,New Hampshire,3.5
+1799,"Belknap County, New Hampshire",3.7
+1800,"Carroll County, New Hampshire",3.8
+1801,"Cheshire County, New Hampshire",3.9
+1802,"Coos County, New Hampshire",4.4
+1803,"Grafton County, New Hampshire",3.3
+1804,"Hillsborough County, New Hampshire",3.6
+1805,"Merrimack County, New Hampshire",3.2
+1806,"Rockingham County, New Hampshire",3.5
+1807,"Strafford County, New Hampshire",3.3
+1808,"Sullivan County, New Hampshire",3.3
+1809,New Jersey,6.3
+1810,"Atlantic County, New Jersey",9.5
+1811,"Bergen County, New Jersey",6.0
+1812,"Burlington County, New Jersey",5.3
+1813,"Camden County, New Jersey",6.8
+1814,"Cape May County, New Jersey",8.9
+1815,"Cumberland County, New Jersey",7.7
+1816,"Essex County, New Jersey",8.0
+1817,"Gloucester County, New Jersey",6.0
+1818,"Hudson County, New Jersey",6.8
+1819,"Hunterdon County, New Jersey",4.6
+1820,"Mercer County, New Jersey",5.2
+1821,"Middlesex County, New Jersey",5.7
+1822,"Monmouth County, New Jersey",5.5
+1823,"Morris County, New Jersey",5.0
+1824,"Ocean County, New Jersey",6.0
+1825,"Passaic County, New Jersey",8.4
+1826,"Salem County, New Jersey",7.3
+1827,"Somerset County, New Jersey",5.1
+1828,"Sussex County, New Jersey",5.9
+1829,"Union County, New Jersey",6.7
+1830,"Warren County, New Jersey",5.5
+1831,New Mexico,6.8
+1832,"Bernalillo County, New Mexico",6.2
+1833,"Catron County, New Mexico",6.2
+1834,"Chaves County, New Mexico",7.1
+1835,"Cibola County, New Mexico",9.3
+1836,"Colfax County, New Mexico",5.9
+1837,"Curry County, New Mexico",4.9
+1838,"De Baca County, New Mexico",5.1
+1839,"Dona Ana County, New Mexico",6.6
+1840,"Eddy County, New Mexico",6.4
+1841,"Grant County, New Mexico",7.3
+1842,"Guadalupe County, New Mexico",7.0
+1843,"Harding County, New Mexico",4.6
+1844,"Hidalgo County, New Mexico",5.4
+1845,"Lea County, New Mexico",9.6
+1846,"Lincoln County, New Mexico",7.5
+1847,"Los Alamos County, New Mexico",3.0
+1848,"Luna County, New Mexico",15.2
+1849,"McKinley County, New Mexico",9.6
+1850,"Mora County, New Mexico",6.2
+1851,"Otero County, New Mexico",6.6
+1852,"Quay County, New Mexico",7.1
+1853,"Rio Arriba County, New Mexico",7.0
+1854,"Roosevelt County, New Mexico",5.6
+1855,"Sandoval County, New Mexico",6.6
+1856,"San Juan County, New Mexico",8.0
+1857,"San Miguel County, New Mexico",7.3
+1858,"Santa Fe County, New Mexico",6.2
+1859,"Sierra County, New Mexico",8.1
+1860,"Socorro County, New Mexico",6.3
+1861,"Taos County, New Mexico",8.9
+1862,"Torrance County, New Mexico",7.9
+1863,"Union County, New Mexico",4.2
+1864,"Valencia County, New Mexico",6.9
+1865,New York,6.9
+1866,"Albany County, New York",4.4
+1867,"Allegany County, New York",5.0
+1868,"Bronx County, New York",13.6
+1869,"Broome County, New York",5.2
+1870,"Cattaraugus County, New York",5.3
+1871,"Cayuga County, New York",4.7
+1872,"Chautauqua County, New York",5.6
+1873,"Chemung County, New York",5.3
+1874,"Chenango County, New York",4.4
+1875,"Clinton County, New York",4.6
+1876,"Columbia County, New York",3.8
+1877,"Cortland County, New York",5.1
+1878,"Delaware County, New York",4.6
+1879,"Dutchess County, New York",4.4
+1880,"Erie County, New York",5.5
+1881,"Essex County, New York",4.7
+1882,"Franklin County, New York",4.7
+1883,"Fulton County, New York",5.5
+1884,"Genesee County, New York",4.3
+1885,"Greene County, New York",4.9
+1886,"Hamilton County, New York",4.4
+1887,"Herkimer County, New York",5.8
+1888,"Jefferson County, New York",5.0
+1889,"Kings County, New York",10.1
+1890,"Lewis County, New York",5.0
+1891,"Livingston County, New York",4.3
+1892,"Madison County, New York",4.5
+1893,"Monroe County, New York",5.2
+1894,"Montgomery County, New York",5.7
+1895,"Nassau County, New York",4.5
+1896,"New York County, New York",7.6
+1897,"Niagara County, New York",5.7
+1898,"Oneida County, New York",5.1
+1899,"Onondaga County, New York",4.9
+1900,"Ontario County, New York",4.3
+1901,"Orange County, New York",4.7
+1902,"Orleans County, New York",5.2
+1903,"Oswego County, New York",5.5
+1904,"Otsego County, New York",4.4
+1905,"Putnam County, New York",4.2
+1906,"Queens County, New York",9.6
+1907,"Rensselaer County, New York",4.4
+1908,"Richmond County, New York",8.7
+1909,"Rockland County, New York",4.4
+1910,"St. Lawrence County, New York",5.1
+1911,"Saratoga County, New York",3.8
+1912,"Schenectady County, New York",4.9
+1913,"Schoharie County, New York",4.5
+1914,"Schuyler County, New York",4.9
+1915,"Seneca County, New York",4.7
+1916,"Steuben County, New York",5.0
+1917,"Suffolk County, New York",4.6
+1918,"Sullivan County, New York",4.9
+1919,"Tioga County, New York",4.4
+1920,"Tompkins County, New York",3.7
+1921,"Ulster County, New York",4.7
+1922,"Warren County, New York",4.9
+1923,"Washington County, New York",4.6
+1924,"Wayne County, New York",4.5
+1925,"Westchester County, New York",4.8
+1926,"Wyoming County, New York",4.5
+1927,"Yates County, New York",3.8
+1928,North Carolina,4.8
+1929,"Alamance County, North Carolina",4.8
+1930,"Alexander County, North Carolina",4.2
+1931,"Alleghany County, North Carolina",4.6
+1932,"Anson County, North Carolina",6.3
+1933,"Ashe County, North Carolina",4.0
+1934,"Avery County, North Carolina",3.9
+1935,"Beaufort County, North Carolina",4.8
+1936,"Bertie County, North Carolina",5.9
+1937,"Bladen County, North Carolina",5.8
+1938,"Brunswick County, North Carolina",6.0
+1939,"Buncombe County, North Carolina",4.2
+1940,"Burke County, North Carolina",4.5
+1941,"Cabarrus County, North Carolina",4.4
+1942,"Caldwell County, North Carolina",4.9
+1943,"Camden County, North Carolina",3.9
+1944,"Carteret County, North Carolina",4.1
+1945,"Caswell County, North Carolina",5.3
+1946,"Catawba County, North Carolina",4.7
+1947,"Chatham County, North Carolina",3.6
+1948,"Cherokee County, North Carolina",5.0
+1949,"Chowan County, North Carolina",4.9
+1950,"Clay County, North Carolina",4.9
+1951,"Cleveland County, North Carolina",5.3
+1952,"Columbus County, North Carolina",6.3
+1953,"Craven County, North Carolina",4.7
+1954,"Cumberland County, North Carolina",6.9
+1955,"Currituck County, North Carolina",4.1
+1956,"Dare County, North Carolina",6.0
+1957,"Davidson County, North Carolina",4.5
+1958,"Davie County, North Carolina",4.3
+1959,"Duplin County, North Carolina",4.4
+1960,"Durham County, North Carolina",4.1
+1961,"Edgecombe County, North Carolina",8.5
+1962,"Forsyth County, North Carolina",4.9
+1963,"Franklin County, North Carolina",4.7
+1964,"Gaston County, North Carolina",5.2
+1965,"Gates County, North Carolina",4.3
+1966,"Graham County, North Carolina",6.9
+1967,"Granville County, North Carolina",4.0
+1968,"Greene County, North Carolina",4.1
+1969,"Guilford County, North Carolina",5.6
+1970,"Halifax County, North Carolina",7.5
+1971,"Harnett County, North Carolina",5.3
+1972,"Haywood County, North Carolina",4.2
+1973,"Henderson County, North Carolina",4.1
+1974,"Hertford County, North Carolina",6.5
+1975,"Hoke County, North Carolina",6.4
+1976,"Hyde County, North Carolina",6.5
+1977,"Iredell County, North Carolina",4.6
+1978,"Jackson County, North Carolina",4.5
+1979,"Johnston County, North Carolina",4.2
+1980,"Jones County, North Carolina",4.2
+1981,"Lee County, North Carolina",5.4
+1982,"Lenoir County, North Carolina",5.0
+1983,"Lincoln County, North Carolina",4.1
+1984,"McDowell County, North Carolina",4.5
+1985,"Macon County, North Carolina",4.2
+1986,"Madison County, North Carolina",4.3
+1987,"Martin County, North Carolina",5.5
+1988,"Mecklenburg County, North Carolina",4.9
+1989,"Mitchell County, North Carolina",5.1
+1990,"Montgomery County, North Carolina",4.7
+1991,"Moore County, North Carolina",4.6
+1992,"Nash County, North Carolina",6.3
+1993,"New Hanover County, North Carolina",4.2
+1994,"Northampton County, North Carolina",6.2
+1995,"Onslow County, North Carolina",5.1
+1996,"Orange County, North Carolina",3.5
+1997,"Pamlico County, North Carolina",4.3
+1998,"Pasquotank County, North Carolina",5.4
+1999,"Pender County, North Carolina",4.2
+2000,"Perquimans County, North Carolina",5.3
+2001,"Person County, North Carolina",5.0
+2002,"Pitt County, North Carolina",5.0
+2003,"Polk County, North Carolina",4.7
+2004,"Randolph County, North Carolina",4.7
+2005,"Richmond County, North Carolina",7.3
+2006,"Robeson County, North Carolina",7.6
+2007,"Rockingham County, North Carolina",5.5
+2008,"Rowan County, North Carolina",5.0
+2009,"Rutherford County, North Carolina",6.5
+2010,"Sampson County, North Carolina",4.5
+2011,"Scotland County, North Carolina",9.5
+2012,"Stanly County, North Carolina",4.4
+2013,"Stokes County, North Carolina",4.2
+2014,"Surry County, North Carolina",4.4
+2015,"Swain County, North Carolina",4.5
+2016,"Transylvania County, North Carolina",4.1
+2017,"Tyrrell County, North Carolina",7.0
+2018,"Union County, North Carolina",3.9
+2019,"Vance County, North Carolina",7.9
+2020,"Wake County, North Carolina",4.0
+2021,"Warren County, North Carolina",7.7
+2022,"Washington County, North Carolina",6.9
+2023,"Watauga County, North Carolina",3.7
+2024,"Wayne County, North Carolina",5.0
+2025,"Wilkes County, North Carolina",4.7
+2026,"Wilson County, North Carolina",6.7
+2027,"Yadkin County, North Carolina",4.2
+2028,"Yancey County, North Carolina",4.3
+2029,North Dakota,3.7
+2030,"Adams County, North Dakota",3.4
+2031,"Barnes County, North Dakota",3.1
+2032,"Benson County, North Dakota",5.0
+2033,"Billings County, North Dakota",2.9
+2034,"Bottineau County, North Dakota",4.8
+2035,"Bowman County, North Dakota",2.5
+2036,"Burke County, North Dakota",4.3
+2037,"Burleigh County, North Dakota",3.1
+2038,"Cass County, North Dakota",2.9
+2039,"Cavalier County, North Dakota",3.1
+2040,"Dickey County, North Dakota",2.7
+2041,"Divide County, North Dakota",2.4
+2042,"Dunn County, North Dakota",3.3
+2043,"Eddy County, North Dakota",4.0
+2044,"Emmons County, North Dakota",4.6
+2045,"Foster County, North Dakota",2.8
+2046,"Golden Valley County, North Dakota",2.7
+2047,"Grand Forks County, North Dakota",3.2
+2048,"Grant County, North Dakota",2.7
+2049,"Griggs County, North Dakota",2.8
+2050,"Hettinger County, North Dakota",3.2
+2051,"Kidder County, North Dakota",5.2
+2052,"LaMoure County, North Dakota",2.3
+2053,"Logan County, North Dakota",3.0
+2054,"McHenry County, North Dakota",4.3
+2055,"McIntosh County, North Dakota",3.5
+2056,"McKenzie County, North Dakota",5.5
+2057,"McLean County, North Dakota",3.7
+2058,"Mercer County, North Dakota",4.7
+2059,"Morton County, North Dakota",3.8
+2060,"Mountrail County, North Dakota",3.5
+2061,"Nelson County, North Dakota",3.7
+2062,"Oliver County, North Dakota",3.8
+2063,"Pembina County, North Dakota",4.8
+2064,"Pierce County, North Dakota",3.4
+2065,"Ramsey County, North Dakota",3.3
+2066,"Ransom County, North Dakota",2.6
+2067,"Renville County, North Dakota",3.4
+2068,"Richland County, North Dakota",2.7
+2069,"Rolette County, North Dakota",10.6
+2070,"Sargent County, North Dakota",2.7
+2071,"Sheridan County, North Dakota",5.3
+2072,"Sioux County, North Dakota",3.5
+2073,"Slope County, North Dakota",2.8
+2074,"Stark County, North Dakota",4.7
+2075,"Steele County, North Dakota",3.0
+2076,"Stutsman County, North Dakota",3.0
+2077,"Towner County, North Dakota",3.3
+2078,"Traill County, North Dakota",3.0
+2079,"Walsh County, North Dakota",4.6
+2080,"Ward County, North Dakota",4.3
+2081,"Wells County, North Dakota",4.2
+2082,"Williams County, North Dakota",6.7
+2083,Ohio,5.1
+2084,"Adams County, Ohio",6.3
+2085,"Allen County, Ohio",5.7
+2086,"Ashland County, Ohio",4.3
+2087,"Ashtabula County, Ohio",5.5
+2088,"Athens County, Ohio",5.6
+2089,"Auglaize County, Ohio",3.7
+2090,"Belmont County, Ohio",6.1
+2091,"Brown County, Ohio",5.3
+2092,"Butler County, Ohio",4.5
+2093,"Carroll County, Ohio",5.7
+2094,"Champaign County, Ohio",4.4
+2095,"Clark County, Ohio",5.3
+2096,"Clermont County, Ohio",4.3
+2097,"Clinton County, Ohio",5.5
+2098,"Columbiana County, Ohio",5.7
+2099,"Coshocton County, Ohio",5.8
+2100,"Crawford County, Ohio",5.8
+2101,"Cuyahoga County, Ohio",6.5
+2102,"Darke County, Ohio",3.9
+2103,"Defiance County, Ohio",4.7
+2104,"Delaware County, Ohio",3.6
+2105,"Erie County, Ohio",6.3
+2106,"Fairfield County, Ohio",4.3
+2107,"Fayette County, Ohio",4.8
+2108,"Franklin County, Ohio",5.0
+2109,"Fulton County, Ohio",4.7
+2110,"Gallia County, Ohio",5.6
+2111,"Geauga County, Ohio",4.1
+2112,"Greene County, Ohio",4.3
+2113,"Guernsey County, Ohio",5.6
+2114,"Hamilton County, Ohio",4.9
+2115,"Hancock County, Ohio",4.1
+2116,"Hardin County, Ohio",5.2
+2117,"Harrison County, Ohio",6.2
+2118,"Henry County, Ohio",5.2
+2119,"Highland County, Ohio",5.6
+2120,"Hocking County, Ohio",4.8
+2121,"Holmes County, Ohio",2.8
+2122,"Huron County, Ohio",5.8
+2123,"Jackson County, Ohio",6.1
+2124,"Jefferson County, Ohio",6.5
+2125,"Knox County, Ohio",4.0
+2126,"Lake County, Ohio",5.1
+2127,"Lawrence County, Ohio",5.1
+2128,"Licking County, Ohio",4.1
+2129,"Logan County, Ohio",4.1
+2130,"Lorain County, Ohio",5.8
+2131,"Lucas County, Ohio",6.2
+2132,"Madison County, Ohio",3.8
+2133,"Mahoning County, Ohio",6.3
+2134,"Marion County, Ohio",4.7
+2135,"Medina County, Ohio",4.3
+2136,"Meigs County, Ohio",6.6
+2137,"Mercer County, Ohio",3.1
+2138,"Miami County, Ohio",4.3
+2139,"Monroe County, Ohio",7.3
+2140,"Montgomery County, Ohio",5.6
+2141,"Morgan County, Ohio",6.2
+2142,"Morrow County, Ohio",4.5
+2143,"Muskingum County, Ohio",5.1
+2144,"Noble County, Ohio",6.8
+2145,"Ottawa County, Ohio",6.1
+2146,"Paulding County, Ohio",4.3
+2147,"Perry County, Ohio",5.6
+2148,"Pickaway County, Ohio",4.5
+2149,"Pike County, Ohio",6.3
+2150,"Portage County, Ohio",4.7
+2151,"Preble County, Ohio",4.1
+2152,"Putnam County, Ohio",3.4
+2153,"Richland County, Ohio",5.6
+2154,"Ross County, Ohio",4.8
+2155,"Sandusky County, Ohio",5.2
+2156,"Scioto County, Ohio",6.2
+2157,"Seneca County, Ohio",4.7
+2158,"Shelby County, Ohio",4.2
+2159,"Stark County, Ohio",5.2
+2160,"Summit County, Ohio",5.4
+2161,"Trumbull County, Ohio",6.4
+2162,"Tuscarawas County, Ohio",4.6
+2163,"Union County, Ohio",3.5
+2164,"Van Wert County, Ohio",3.9
+2165,"Vinton County, Ohio",6.2
+2166,"Warren County, Ohio",4.0
+2167,"Washington County, Ohio",5.5
+2168,"Wayne County, Ohio",3.6
+2169,"Williams County, Ohio",4.3
+2170,"Wood County, Ohio",4.3
+2171,"Wyandot County, Ohio",3.5
+2172,Oklahoma,3.8
+2173,"Adair County, Oklahoma",3.7
+2174,"Alfalfa County, Oklahoma",2.3
+2175,"Atoka County, Oklahoma",4.7
+2176,"Beaver County, Oklahoma",1.7
+2177,"Beckham County, Oklahoma",4.3
+2178,"Blaine County, Oklahoma",3.0
+2179,"Bryan County, Oklahoma",3.3
+2180,"Caddo County, Oklahoma",3.7
+2181,"Canadian County, Oklahoma",3.2
+2182,"Carter County, Oklahoma",4.4
+2183,"Cherokee County, Oklahoma",4.1
+2184,"Choctaw County, Oklahoma",5.2
+2185,"Cimarron County, Oklahoma",1.8
+2186,"Cleveland County, Oklahoma",3.2
+2187,"Coal County, Oklahoma",4.5
+2188,"Comanche County, Oklahoma",4.1
+2189,"Cotton County, Oklahoma",4.1
+2190,"Craig County, Oklahoma",3.6
+2191,"Creek County, Oklahoma",4.2
+2192,"Custer County, Oklahoma",3.2
+2193,"Delaware County, Oklahoma",3.3
+2194,"Dewey County, Oklahoma",2.7
+2195,"Ellis County, Oklahoma",2.8
+2196,"Garfield County, Oklahoma",3.4
+2197,"Garvin County, Oklahoma",3.8
+2198,"Grady County, Oklahoma",3.5
+2199,"Grant County, Oklahoma",2.5
+2200,"Greer County, Oklahoma",5.1
+2201,"Harmon County, Oklahoma",2.5
+2202,"Harper County, Oklahoma",2.5
+2203,"Haskell County, Oklahoma",5.2
+2204,"Hughes County, Oklahoma",5.2
+2205,"Jackson County, Oklahoma",2.8
+2206,"Jefferson County, Oklahoma",4.0
+2207,"Johnston County, Oklahoma",4.6
+2208,"Kay County, Oklahoma",4.3
+2209,"Kingfisher County, Oklahoma",2.6
+2210,"Kiowa County, Oklahoma",3.3
+2211,"Latimer County, Oklahoma",7.3
+2212,"Le Flore County, Oklahoma",4.7
+2213,"Lincoln County, Oklahoma",3.5
+2214,"Logan County, Oklahoma",3.3
+2215,"Love County, Oklahoma",2.6
+2216,"McClain County, Oklahoma",3.1
+2217,"McCurtain County, Oklahoma",4.4
+2218,"McIntosh County, Oklahoma",6.1
+2219,"Major County, Oklahoma",3.1
+2220,"Marshall County, Oklahoma",3.7
+2221,"Mayes County, Oklahoma",3.7
+2222,"Murray County, Oklahoma",3.9
+2223,"Muskogee County, Oklahoma",4.3
+2224,"Noble County, Oklahoma",2.5
+2225,"Nowata County, Oklahoma",3.5
+2226,"Okfuskee County, Oklahoma",4.9
+2227,"Oklahoma County, Oklahoma",4.1
+2228,"Okmulgee County, Oklahoma",5.2
+2229,"Osage County, Oklahoma",4.2
+2230,"Ottawa County, Oklahoma",3.2
+2231,"Pawnee County, Oklahoma",4.1
+2232,"Payne County, Oklahoma",3.2
+2233,"Pittsburg County, Oklahoma",5.2
+2234,"Pontotoc County, Oklahoma",3.3
+2235,"Pottawatomie County, Oklahoma",3.9
+2236,"Pushmataha County, Oklahoma",4.2
+2237,"Roger Mills County, Oklahoma",2.9
+2238,"Rogers County, Oklahoma",3.5
+2239,"Seminole County, Oklahoma",5.1
+2240,"Sequoyah County, Oklahoma",4.3
+2241,"Stephens County, Oklahoma",4.5
+2242,"Texas County, Oklahoma",1.8
+2243,"Tillman County, Oklahoma",4.2
+2244,"Tulsa County, Oklahoma",4.0
+2245,"Wagoner County, Oklahoma",3.5
+2246,"Washington County, Oklahoma",3.8
+2247,"Washita County, Oklahoma",4.3
+2248,"Woods County, Oklahoma",2.1
+2249,"Woodward County, Oklahoma",4.2
+2250,Oregon,5.2
+2251,"Baker County, Oregon",5.1
+2252,"Benton County, Oregon",3.9
+2253,"Clackamas County, Oregon",4.8
+2254,"Clatsop County, Oregon",6.0
+2255,"Columbia County, Oregon",5.8
+2256,"Coos County, Oregon",6.3
+2257,"Crook County, Oregon",6.7
+2258,"Curry County, Oregon",6.7
+2259,"Deschutes County, Oregon",5.3
+2260,"Douglas County, Oregon",5.8
+2261,"Gilliam County, Oregon",4.8
+2262,"Grant County, Oregon",6.7
+2263,"Harney County, Oregon",5.1
+2264,"Hood River County, Oregon",4.5
+2265,"Jackson County, Oregon",5.4
+2266,"Jefferson County, Oregon",6.5
+2267,"Josephine County, Oregon",6.2
+2268,"Klamath County, Oregon",6.7
+2269,"Lake County, Oregon",5.5
+2270,"Lane County, Oregon",5.5
+2271,"Lincoln County, Oregon",6.8
+2272,"Linn County, Oregon",5.6
+2273,"Malheur County, Oregon",4.4
+2274,"Marion County, Oregon",5.1
+2275,"Morrow County, Oregon",4.6
+2276,"Multnomah County, Oregon",5.6
+2277,"Polk County, Oregon",4.8
+2278,"Sherman County, Oregon",4.3
+2279,"Tillamook County, Oregon",5.5
+2280,"Umatilla County, Oregon",5.2
+2281,"Union County, Oregon",5.6
+2282,"Wallowa County, Oregon",5.4
+2283,"Wasco County, Oregon",5.2
+2284,"Washington County, Oregon",4.4
+2285,"Wheeler County, Oregon",3.3
+2286,"Yamhill County, Oregon",4.7
+2287,Pennsylvania,6.3
+2288,"Adams County, Pennsylvania",4.4
+2289,"Allegheny County, Pennsylvania",6.1
+2290,"Armstrong County, Pennsylvania",7.6
+2291,"Beaver County, Pennsylvania",7.2
+2292,"Bedford County, Pennsylvania",5.9
+2293,"Berks County, Pennsylvania",6.6
+2294,"Blair County, Pennsylvania",6.0
+2295,"Bradford County, Pennsylvania",5.6
+2296,"Bucks County, Pennsylvania",5.3
+2297,"Butler County, Pennsylvania",5.6
+2298,"Cambria County, Pennsylvania",7.0
+2299,"Cameron County, Pennsylvania",7.7
+2300,"Carbon County, Pennsylvania",6.7
+2301,"Centre County, Pennsylvania",4.6
+2302,"Chester County, Pennsylvania",4.2
+2303,"Clarion County, Pennsylvania",6.5
+2304,"Clearfield County, Pennsylvania",7.0
+2305,"Clinton County, Pennsylvania",6.7
+2306,"Columbia County, Pennsylvania",5.9
+2307,"Crawford County, Pennsylvania",6.7
+2308,"Cumberland County, Pennsylvania",4.6
+2309,"Dauphin County, Pennsylvania",6.3
+2310,"Delaware County, Pennsylvania",6.3
+2311,"Elk County, Pennsylvania",6.9
+2312,"Erie County, Pennsylvania",7.3
+2313,"Fayette County, Pennsylvania",8.7
+2314,"Forest County, Pennsylvania",8.3
+2315,"Franklin County, Pennsylvania",5.1
+2316,"Fulton County, Pennsylvania",6.3
+2317,"Greene County, Pennsylvania",7.3
+2318,"Huntingdon County, Pennsylvania",7.3
+2319,"Indiana County, Pennsylvania",7.1
+2320,"Jefferson County, Pennsylvania",6.5
+2321,"Juniata County, Pennsylvania",5.0
+2322,"Lackawanna County, Pennsylvania",6.9
+2323,"Lancaster County, Pennsylvania",4.9
+2324,"Lawrence County, Pennsylvania",7.6
+2325,"Lebanon County, Pennsylvania",5.5
+2326,"Lehigh County, Pennsylvania",6.8
+2327,"Luzerne County, Pennsylvania",8.3
+2328,"Lycoming County, Pennsylvania",6.7
+2329,"McKean County, Pennsylvania",6.9
+2330,"Mercer County, Pennsylvania",7.1
+2331,"Mifflin County, Pennsylvania",6.1
+2332,"Monroe County, Pennsylvania",7.7
+2333,"Montgomery County, Pennsylvania",5.0
+2334,"Montour County, Pennsylvania",4.4
+2335,"Northampton County, Pennsylvania",5.9
+2336,"Northumberland County, Pennsylvania",6.8
+2337,"Perry County, Pennsylvania",4.7
+2338,"Philadelphia County/city, Pennsylvania",9.2
+2339,"Pike County, Pennsylvania",7.3
+2340,"Potter County, Pennsylvania",6.8
+2341,"Schuylkill County, Pennsylvania",6.8
+2342,"Snyder County, Pennsylvania",5.2
+2343,"Somerset County, Pennsylvania",6.7
+2344,"Sullivan County, Pennsylvania",7.4
+2345,"Susquehanna County, Pennsylvania",5.5
+2346,"Tioga County, Pennsylvania",6.6
+2347,"Union County, Pennsylvania",4.7
+2348,"Venango County, Pennsylvania",6.8
+2349,"Warren County, Pennsylvania",6.7
+2350,"Washington County, Pennsylvania",6.6
+2351,"Wayne County, Pennsylvania",6.6
+2352,"Westmoreland County, Pennsylvania",6.3
+2353,"Wyoming County, Pennsylvania",6.3
+2354,"York County, Pennsylvania",5.4
+2355,Rhode Island,5.6
+2356,"Bristol County, Rhode Island",4.7
+2357,"Kent County, Rhode Island",5.2
+2358,"Newport County, Rhode Island",4.9
+2359,"Providence County, Rhode Island",6.0
+2360,"Washington County, Rhode Island",4.9
+2361,South Carolina,4.0
+2362,"Abbeville County, South Carolina",4.5
+2363,"Aiken County, South Carolina",3.4
+2364,"Allendale County, South Carolina",7.8
+2365,"Anderson County, South Carolina",3.7
+2366,"Bamberg County, South Carolina",7.5
+2367,"Barnwell County, South Carolina",6.5
+2368,"Beaufort County, South Carolina",3.5
+2369,"Berkeley County, South Carolina",3.6
+2370,"Calhoun County, South Carolina",4.5
+2371,"Charleston County, South Carolina",3.6
+2372,"Cherokee County, South Carolina",5.1
+2373,"Chester County, South Carolina",5.9
+2374,"Chesterfield County, South Carolina",4.5
+2375,"Clarendon County, South Carolina",4.9
+2376,"Colleton County, South Carolina",4.4
+2377,"Darlington County, South Carolina",4.5
+2378,"Dillon County, South Carolina",5.8
+2379,"Dorchester County, South Carolina",3.6
+2380,"Edgefield County, South Carolina",3.4
+2381,"Fairfield County, South Carolina",5.8
+2382,"Florence County, South Carolina",4.1
+2383,"Georgetown County, South Carolina",4.8
+2384,"Greenville County, South Carolina",3.4
+2385,"Greenwood County, South Carolina",4.5
+2386,"Hampton County, South Carolina",3.6
+2387,"Horry County, South Carolina",5.1
+2388,"Jasper County, South Carolina",3.4
+2389,"Kershaw County, South Carolina",3.7
+2390,"Lancaster County, South Carolina",4.4
+2391,"Laurens County, South Carolina",4.3
+2392,"Lee County, South Carolina",5.6
+2393,"Lexington County, South Carolina",3.0
+2394,"McCormick County, South Carolina",4.8
+2395,"Marion County, South Carolina",6.6
+2396,"Marlboro County, South Carolina",7.8
+2397,"Newberry County, South Carolina",3.3
+2398,"Oconee County, South Carolina",3.6
+2399,"Orangeburg County, South Carolina",7.1
+2400,"Pickens County, South Carolina",3.5
+2401,"Richland County, South Carolina",4.1
+2402,"Saluda County, South Carolina",3.1
+2403,"Spartanburg County, South Carolina",4.0
+2404,"Sumter County, South Carolina",4.6
+2405,"Union County, South Carolina",6.5
+2406,"Williamsburg County, South Carolina",6.1
+2407,"York County, South Carolina",3.7
+2408,South Dakota,3.1
+2409,"Aurora County, South Dakota",2.4
+2410,"Beadle County, South Dakota",2.8
+2411,"Bennett County, South Dakota",4.3
+2412,"Bon Homme County, South Dakota",2.8
+2413,"Brookings County, South Dakota",3.2
+2414,"Brown County, South Dakota",3.0
+2415,"Brule County, South Dakota",2.5
+2416,"Buffalo County, South Dakota",5.4
+2417,"Butte County, South Dakota",3.4
+2418,"Campbell County, South Dakota",3.4
+2419,"Charles Mix County, South Dakota",3.7
+2420,"Clark County, South Dakota",3.7
+2421,"Clay County, South Dakota",3.0
+2422,"Codington County, South Dakota",3.1
+2423,"Corson County, South Dakota",4.7
+2424,"Custer County, South Dakota",4.0
+2425,"Davison County, South Dakota",2.8
+2426,"Day County, South Dakota",4.3
+2427,"Deuel County, South Dakota",4.2
+2428,"Dewey County, South Dakota",5.9
+2429,"Douglas County, South Dakota",2.5
+2430,"Edmunds County, South Dakota",2.7
+2431,"Fall River County, South Dakota",4.0
+2432,"Faulk County, South Dakota",2.7
+2433,"Grant County, South Dakota",3.4
+2434,"Gregory County, South Dakota",2.8
+2435,"Haakon County, South Dakota",2.8
+2436,"Hamlin County, South Dakota",2.4
+2437,"Hand County, South Dakota",2.5
+2438,"Hanson County, South Dakota",4.0
+2439,"Harding County, South Dakota",2.8
+2440,"Hughes County, South Dakota",2.4
+2441,"Hutchinson County, South Dakota",3.1
+2442,"Hyde County, South Dakota",2.6
+2443,"Jackson County, South Dakota",4.4
+2444,"Jerauld County, South Dakota",2.2
+2445,"Jones County, South Dakota",3.4
+2446,"Kingsbury County, South Dakota",2.9
+2447,"Lake County, South Dakota",3.0
+2448,"Lawrence County, South Dakota",3.0
+2449,"Lincoln County, South Dakota",2.4
+2450,"Lyman County, South Dakota",4.4
+2451,"McCook County, South Dakota",2.8
+2452,"McPherson County, South Dakota",4.2
+2453,"Marshall County, South Dakota",3.5
+2454,"Meade County, South Dakota",3.0
+2455,"Mellette County, South Dakota",4.5
+2456,"Miner County, South Dakota",3.1
+2457,"Minnehaha County, South Dakota",2.9
+2458,"Moody County, South Dakota",2.8
+2459,"Oglala Lakota County, South Dakota",8.7
+2460,"Pennington County, South Dakota",3.2
+2461,"Perkins County, South Dakota",3.1
+2462,"Potter County, South Dakota",3.0
+2463,"Roberts County, South Dakota",4.6
+2464,"Sanborn County, South Dakota",3.0
+2465,"Spink County, South Dakota",3.2
+2466,"Stanley County, South Dakota",3.0
+2467,"Sully County, South Dakota",3.8
+2468,"Todd County, South Dakota",4.8
+2469,"Tripp County, South Dakota",2.4
+2470,"Turner County, South Dakota",2.7
+2471,"Union County, South Dakota",3.6
+2472,"Walworth County, South Dakota",5.5
+2473,"Yankton County, South Dakota",2.7
+2474,"Ziebach County, South Dakota",4.5
+2475,Tennessee,4.3
+2476,"Anderson County, Tennessee",3.8
+2477,"Bedford County, Tennessee",4.1
+2478,"Benton County, Tennessee",4.8
+2479,"Bledsoe County, Tennessee",5.2
+2480,"Blount County, Tennessee",3.4
+2481,"Bradley County, Tennessee",4.1
+2482,"Campbell County, Tennessee",4.8
+2483,"Cannon County, Tennessee",3.4
+2484,"Carroll County, Tennessee",4.6
+2485,"Carter County, Tennessee",4.2
+2486,"Cheatham County, Tennessee",3.1
+2487,"Chester County, Tennessee",3.3
+2488,"Claiborne County, Tennessee",4.1
+2489,"Clay County, Tennessee",5.3
+2490,"Cocke County, Tennessee",5.5
+2491,"Coffee County, Tennessee",4.1
+2492,"Crockett County, Tennessee",3.6
+2493,"Cumberland County, Tennessee",4.8
+2494,"Davidson County, Tennessee",4.2
+2495,"Decatur County, Tennessee",5.7
+2496,"DeKalb County, Tennessee",4.5
+2497,"Dickson County, Tennessee",3.4
+2498,"Dyer County, Tennessee",4.6
+2499,"Fayette County, Tennessee",4.1
+2500,"Fentress County, Tennessee",4.0
+2501,"Franklin County, Tennessee",3.8
+2502,"Gibson County, Tennessee",4.3
+2503,"Giles County, Tennessee",4.3
+2504,"Grainger County, Tennessee",4.2
+2505,"Greene County, Tennessee",4.4
+2506,"Grundy County, Tennessee",5.4
+2507,"Hamblen County, Tennessee",4.0
+2508,"Hamilton County, Tennessee",4.0
+2509,"Hancock County, Tennessee",4.8
+2510,"Hardeman County, Tennessee",6.0
+2511,"Hardin County, Tennessee",4.5
+2512,"Hawkins County, Tennessee",4.4
+2513,"Haywood County, Tennessee",5.9
+2514,"Henderson County, Tennessee",4.4
+2515,"Henry County, Tennessee",4.0
+2516,"Hickman County, Tennessee",3.5
+2517,"Houston County, Tennessee",4.8
+2518,"Humphreys County, Tennessee",3.9
+2519,"Jackson County, Tennessee",4.3
+2520,"Jefferson County, Tennessee",4.1
+2521,"Johnson County, Tennessee",3.5
+2522,"Knox County, Tennessee",3.3
+2523,"Lake County, Tennessee",6.0
+2524,"Lauderdale County, Tennessee",6.0
+2525,"Lawrence County, Tennessee",4.3
+2526,"Lewis County, Tennessee",4.7
+2527,"Lincoln County, Tennessee",4.1
+2528,"Loudon County, Tennessee",3.4
+2529,"McMinn County, Tennessee",4.5
+2530,"McNairy County, Tennessee",5.3
+2531,"Macon County, Tennessee",3.7
+2532,"Madison County, Tennessee",4.5
+2533,"Marion County, Tennessee",4.3
+2534,"Marshall County, Tennessee",4.5
+2535,"Maury County, Tennessee",4.7
+2536,"Meigs County, Tennessee",4.9
+2537,"Monroe County, Tennessee",3.8
+2538,"Montgomery County, Tennessee",4.5
+2539,"Moore County, Tennessee",2.6
+2540,"Morgan County, Tennessee",4.3
+2541,"Obion County, Tennessee",4.7
+2542,"Overton County, Tennessee",3.6
+2543,"Perry County, Tennessee",7.2
+2544,"Pickett County, Tennessee",3.8
+2545,"Polk County, Tennessee",4.1
+2546,"Putnam County, Tennessee",3.7
+2547,"Rhea County, Tennessee",4.8
+2548,"Roane County, Tennessee",4.0
+2549,"Robertson County, Tennessee",3.3
+2550,"Rutherford County, Tennessee",3.4
+2551,"Scott County, Tennessee",5.1
+2552,"Sequatchie County, Tennessee",4.4
+2553,"Sevier County, Tennessee",3.9
+2554,"Shelby County, Tennessee",6.8
+2555,"Smith County, Tennessee",3.3
+2556,"Stewart County, Tennessee",4.1
+2557,"Sullivan County, Tennessee",4.2
+2558,"Sumner County, Tennessee",3.3
+2559,"Tipton County, Tennessee",4.3
+2560,"Trousdale County, Tennessee",3.7
+2561,"Unicoi County, Tennessee",4.9
+2562,"Union County, Tennessee",4.0
+2563,"Van Buren County, Tennessee",5.0
+2564,"Warren County, Tennessee",4.7
+2565,"Washington County, Tennessee",3.6
+2566,"Wayne County, Tennessee",4.1
+2567,"Weakley County, Tennessee",3.8
+2568,"White County, Tennessee",3.9
+2569,"Williamson County, Tennessee",2.5
+2570,"Wilson County, Tennessee",3.2
+2571,Texas,5.7
+2572,"Anderson County, Texas",4.8
+2573,"Andrews County, Texas",5.9
+2574,"Angelina County, Texas",6.5
+2575,"Aransas County, Texas",7.3
+2576,"Archer County, Texas",4.2
+2577,"Armstrong County, Texas",3.6
+2578,"Atascosa County, Texas",6.2
+2579,"Austin County, Texas",5.5
+2580,"Bailey County, Texas",4.9
+2581,"Bandera County, Texas",4.7
+2582,"Bastrop County, Texas",4.5
+2583,"Baylor County, Texas",3.4
+2584,"Bee County, Texas",8.7
+2585,"Bell County, Texas",5.7
+2586,"Bexar County, Texas",5.4
+2587,"Blanco County, Texas",3.3
+2588,"Borden County, Texas",2.4
+2589,"Bosque County, Texas",4.6
+2590,"Bowie County, Texas",5.8
+2591,"Brazoria County, Texas",6.9
+2592,"Brazos County, Texas",4.1
+2593,"Brewster County, Texas",4.5
+2594,"Briscoe County, Texas",4.7
+2595,"Brooks County, Texas",9.2
+2596,"Brown County, Texas",5.2
+2597,"Burleson County, Texas",5.0
+2598,"Burnet County, Texas",3.7
+2599,"Caldwell County, Texas",4.9
+2600,"Calhoun County, Texas",4.9
+2601,"Callahan County, Texas",4.6
+2602,"Cameron County, Texas",8.2
+2603,"Camp County, Texas",5.9
+2604,"Carson County, Texas",3.9
+2605,"Cass County, Texas",6.7
+2606,"Castro County, Texas",3.5
+2607,"Chambers County, Texas",8.3
+2608,"Cherokee County, Texas",6.4
+2609,"Childress County, Texas",3.6
+2610,"Clay County, Texas",4.9
+2611,"Cochran County, Texas",6.3
+2612,"Coke County, Texas",4.8
+2613,"Coleman County, Texas",6.0
+2614,"Collin County, Texas",4.3
+2615,"Collingsworth County, Texas",4.3
+2616,"Colorado County, Texas",4.8
+2617,"Comal County, Texas",4.5
+2618,"Comanche County, Texas",4.6
+2619,"Concho County, Texas",4.2
+2620,"Cooke County, Texas",5.0
+2621,"Coryell County, Texas",5.7
+2622,"Cottle County, Texas",4.6
+2623,"Crane County, Texas",9.6
+2624,"Crockett County, Texas",6.7
+2625,"Crosby County, Texas",5.6
+2626,"Culberson County, Texas",4.8
+2627,"Dallam County, Texas",2.6
+2628,"Dallas County, Texas",5.6
+2629,"Dawson County, Texas",7.0
+2630,"Deaf Smith County, Texas",3.7
+2631,"Delta County, Texas",4.9
+2632,"Denton County, Texas",4.4
+2633,"DeWitt County, Texas",4.8
+2634,"Dickens County, Texas",5.1
+2635,"Dimmit County, Texas",5.7
+2636,"Donley County, Texas",4.1
+2637,"Duval County, Texas",8.3
+2638,"Eastland County, Texas",5.8
+2639,"Ector County, Texas",8.3
+2640,"Edwards County, Texas",4.3
+2641,"Ellis County, Texas",4.5
+2642,"El Paso County, Texas",6.2
+2643,"Erath County, Texas",4.5
+2644,"Falls County, Texas",5.3
+2645,"Fannin County, Texas",4.0
+2646,"Fayette County, Texas",4.3
+2647,"Fisher County, Texas",4.2
+2648,"Floyd County, Texas",5.8
+2649,"Foard County, Texas",3.4
+2650,"Fort Bend County, Texas",5.9
+2651,"Franklin County, Texas",4.4
+2652,"Freestone County, Texas",7.2
+2653,"Frio County, Texas",4.8
+2654,"Gaines County, Texas",4.6
+2655,"Galveston County, Texas",6.7
+2656,"Garza County, Texas",5.0
+2657,"Gillespie County, Texas",3.3
+2658,"Glasscock County, Texas",2.9
+2659,"Goliad County, Texas",6.6
+2660,"Gonzales County, Texas",4.3
+2661,"Gray County, Texas",6.7
+2662,"Grayson County, Texas",4.6
+2663,"Gregg County, Texas",6.5
+2664,"Grimes County, Texas",6.7
+2665,"Guadalupe County, Texas",4.4
+2666,"Hale County, Texas",6.1
+2667,"Hall County, Texas",5.4
+2668,"Hamilton County, Texas",4.1
+2669,"Hansford County, Texas",3.0
+2670,"Hardeman County, Texas",4.3
+2671,"Hardin County, Texas",8.0
+2672,"Harris County, Texas",6.5
+2673,"Harrison County, Texas",6.6
+2674,"Hartley County, Texas",2.1
+2675,"Haskell County, Texas",3.9
+2676,"Hays County, Texas",4.1
+2677,"Hemphill County, Texas",4.3
+2678,"Henderson County, Texas",5.1
+2679,"Hidalgo County, Texas",9.3
+2680,"Hill County, Texas",5.0
+2681,"Hockley County, Texas",6.0
+2682,"Hood County, Texas",5.2
+2683,"Hopkins County, Texas",4.3
+2684,"Houston County, Texas",4.8
+2685,"Howard County, Texas",6.5
+2686,"Hudspeth County, Texas",5.8
+2687,"Hunt County, Texas",5.1
+2688,"Hutchinson County, Texas",6.0
+2689,"Irion County, Texas",4.9
+2690,"Jack County, Texas",5.5
+2691,"Jackson County, Texas",5.0
+2692,"Jasper County, Texas",9.7
+2693,"Jeff Davis County, Texas",4.3
+2694,"Jefferson County, Texas",10.0
+2695,"Jim Hogg County, Texas",8.8
+2696,"Jim Wells County, Texas",10.2
+2697,"Johnson County, Texas",4.9
+2698,"Jones County, Texas",6.2
+2699,"Karnes County, Texas",5.2
+2700,"Kaufman County, Texas",4.9
+2701,"Kendall County, Texas",3.8
+2702,"Kenedy County, Texas",6.0
+2703,"Kent County, Texas",2.9
+2704,"Kerr County, Texas",4.5
+2705,"Kimble County, Texas",4.1
+2706,"King County, Texas",0.9
+2707,"Kinney County, Texas",5.5
+2708,"Kleberg County, Texas",7.1
+2709,"Knox County, Texas",4.7
+2710,"Lamar County, Texas",5.5
+2711,"Lamb County, Texas",5.0
+2712,"Lampasas County, Texas",4.8
+2713,"La Salle County, Texas",4.3
+2714,"Lavaca County, Texas",4.5
+2715,"Lee County, Texas",4.3
+2716,"Leon County, Texas",7.1
+2717,"Liberty County, Texas",9.2
+2718,"Limestone County, Texas",6.2
+2719,"Lipscomb County, Texas",3.7
+2720,"Live Oak County, Texas",6.8
+2721,"Llano County, Texas",4.8
+2722,"Loving County, Texas",0.9
+2723,"Lubbock County, Texas",4.5
+2724,"Lynn County, Texas",4.3
+2725,"McCulloch County, Texas",6.5
+2726,"McLennan County, Texas",4.9
+2727,"McMullen County, Texas",2.3
+2728,"Madison County, Texas",6.2
+2729,"Marion County, Texas",6.9
+2730,"Martin County, Texas",4.8
+2731,"Mason County, Texas",4.7
+2732,"Matagorda County, Texas",8.3
+2733,"Maverick County, Texas",12.7
+2734,"Medina County, Texas",5.0
+2735,"Menard County, Texas",4.8
+2736,"Midland County, Texas",5.7
+2737,"Milam County, Texas",5.8
+2738,"Mills County, Texas",4.4
+2739,"Mitchell County, Texas",7.1
+2740,"Montague County, Texas",5.1
+2741,"Montgomery County, Texas",5.8
+2742,"Moore County, Texas",3.3
+2743,"Morris County, Texas",10.5
+2744,"Motley County, Texas",5.1
+2745,"Nacogdoches County, Texas",5.5
+2746,"Navarro County, Texas",5.1
+2747,"Newton County, Texas",10.4
+2748,"Nolan County, Texas",4.8
+2749,"Nueces County, Texas",6.9
+2750,"Ochiltree County, Texas",4.6
+2751,"Oldham County, Texas",3.5
+2752,"Orange County, Texas",9.0
+2753,"Palo Pinto County, Texas",5.7
+2754,"Panola County, Texas",6.7
+2755,"Parker County, Texas",4.4
+2756,"Parmer County, Texas",2.9
+2757,"Pecos County, Texas",7.1
+2758,"Polk County, Texas",8.0
+2759,"Potter County, Texas",4.3
+2760,"Presidio County, Texas",10.5
+2761,"Rains County, Texas",3.9
+2762,"Randall County, Texas",3.5
+2763,"Reagan County, Texas",7.7
+2764,"Real County, Texas",5.9
+2765,"Red River County, Texas",5.9
+2766,"Reeves County, Texas",5.9
+2767,"Refugio County, Texas",6.7
+2768,"Roberts County, Texas",4.3
+2769,"Robertson County, Texas",5.3
+2770,"Rockwall County, Texas",4.3
+2771,"Runnels County, Texas",4.1
+2772,"Rusk County, Texas",6.0
+2773,"Sabine County, Texas",9.5
+2774,"San Augustine County, Texas",8.2
+2775,"San Jacinto County, Texas",7.4
+2776,"San Patricio County, Texas",8.8
+2777,"San Saba County, Texas",4.7
+2778,"Schleicher County, Texas",5.5
+2779,"Scurry County, Texas",6.7
+2780,"Shackelford County, Texas",4.0
+2781,"Shelby County, Texas",5.4
+2782,"Sherman County, Texas",3.0
+2783,"Smith County, Texas",5.1
+2784,"Somervell County, Texas",5.2
+2785,"Starr County, Texas",16.2
+2786,"Stephens County, Texas",4.9
+2787,"Sterling County, Texas",5.1
+2788,"Stonewall County, Texas",4.1
+2789,"Sutton County, Texas",8.3
+2790,"Swisher County, Texas",4.9
+2791,"Tarrant County, Texas",5.3
+2792,"Taylor County, Texas",4.3
+2793,"Terrell County, Texas",3.6
+2794,"Terry County, Texas",6.1
+2795,"Throckmorton County, Texas",2.8
+2796,"Titus County, Texas",5.4
+2797,"Tom Green County, Texas",4.9
+2798,"Travis County, Texas",4.0
+2799,"Trinity County, Texas",7.3
+2800,"Tyler County, Texas",8.5
+2801,"Upshur County, Texas",6.3
+2802,"Upton County, Texas",5.2
+2803,"Uvalde County, Texas",5.5
+2804,"Val Verde County, Texas",5.9
+2805,"Van Zandt County, Texas",4.7
+2806,"Victoria County, Texas",6.4
+2807,"Walker County, Texas",6.3
+2808,"Waller County, Texas",6.4
+2809,"Ward County, Texas",7.2
+2810,"Washington County, Texas",5.2
+2811,"Webb County, Texas",6.3
+2812,"Wharton County, Texas",5.7
+2813,"Wheeler County, Texas",6.2
+2814,"Wichita County, Texas",5.3
+2815,"Wilbarger County, Texas",6.6
+2816,"Willacy County, Texas",10.5
+2817,"Williamson County, Texas",4.0
+2818,"Wilson County, Texas",4.4
+2819,"Winkler County, Texas",7.7
+2820,"Wise County, Texas",4.9
+2821,"Wood County, Texas",5.6
+2822,"Yoakum County, Texas",7.8
+2823,"Young County, Texas",4.5
+2824,"Zapata County, Texas",12.1
+2825,"Zavala County, Texas",12.7
+2826,Utah,2.7
+2827,"Beaver County, Utah",2.8
+2828,"Box Elder County, Utah",2.4
+2829,"Cache County, Utah",2.0
+2830,"Carbon County, Utah",3.9
+2831,"Daggett County, Utah",3.6
+2832,"Davis County, Utah",2.4
+2833,"Duchesne County, Utah",4.9
+2834,"Emery County, Utah",3.9
+2835,"Garfield County, Utah",6.5
+2836,"Grand County, Utah",4.4
+2837,"Iron County, Utah",2.8
+2838,"Juab County, Utah",2.0
+2839,"Kane County, Utah",2.9
+2840,"Millard County, Utah",2.4
+2841,"Morgan County, Utah",2.1
+2842,"Piute County, Utah",4.4
+2843,"Rich County, Utah",2.3
+2844,"Salt Lake County, Utah",2.8
+2845,"San Juan County, Utah",6.3
+2846,"Sanpete County, Utah",2.8
+2847,"Sevier County, Utah",3.3
+2848,"Summit County, Utah",2.9
+2849,"Tooele County, Utah",2.9
+2850,"Uintah County, Utah",5.6
+2851,"Utah County, Utah",2.3
+2852,"Wasatch County, Utah",2.9
+2853,"Washington County, Utah",2.9
+2854,"Wayne County, Utah",4.7
+2855,"Weber County, Utah",2.9
+2856,Vermont,3.4
+2857,"Addison County, Vermont",2.8
+2858,"Bennington County, Vermont",4.3
+2859,"Caledonia County, Vermont",3.7
+2860,"Chittenden County, Vermont",2.8
+2861,"Essex County, Vermont",4.8
+2862,"Franklin County, Vermont",3.5
+2863,"Grand Isle County, Vermont",3.9
+2864,"Lamoille County, Vermont",4.0
+2865,"Orange County, Vermont",3.2
+2866,"Orleans County, Vermont",4.6
+2867,"Rutland County, Vermont",4.2
+2868,"Washington County, Vermont",3.0
+2869,"Windham County, Vermont",4.4
+2870,"Windsor County, Vermont",3.3
+2871,Virginia,3.9
+2872,"Accomack County, Virginia",4.3
+2873,"Albemarle County, Virginia",3.2
+2874,"Alleghany County, Virginia",4.1
+2875,"Amelia County, Virginia",3.6
+2876,"Amherst County, Virginia",3.7
+2877,"Appomattox County, Virginia",3.9
+2878,"Arlington County, Virginia",3.0
+2879,"Augusta County, Virginia",3.1
+2880,"Bath County, Virginia",4.6
+2881,"Bedford County, Virginia",3.4
+2882,"Bland County, Virginia",3.4
+2883,"Botetourt County, Virginia",3.0
+2884,"Brunswick County, Virginia",6.3
+2885,"Buchanan County, Virginia",6.7
+2886,"Buckingham County, Virginia",5.3
+2887,"Campbell County, Virginia",3.8
+2888,"Caroline County, Virginia",4.3
+2889,"Carroll County, Virginia",4.1
+2890,"Charles City County, Virginia",4.4
+2891,"Charlotte County, Virginia",3.7
+2892,"Chesterfield County, Virginia",3.6
+2893,"Clarke County, Virginia",3.1
+2894,"Craig County, Virginia",3.3
+2895,"Culpeper County, Virginia",3.2
+2896,"Cumberland County, Virginia",4.3
+2897,"Dickenson County, Virginia",5.3
+2898,"Dinwiddie County, Virginia",4.5
+2899,"Essex County, Virginia",4.8
+2900,"Fairfax County, Virginia",3.5
+2901,"Fauquier County, Virginia",3.0
+2902,"Floyd County, Virginia",3.1
+2903,"Fluvanna County, Virginia",3.3
+2904,"Franklin County, Virginia",3.5
+2905,"Frederick County, Virginia",2.9
+2906,"Giles County, Virginia",3.5
+2907,"Gloucester County, Virginia",3.4
+2908,"Goochland County, Virginia",3.1
+2909,"Grayson County, Virginia",3.3
+2910,"Greene County, Virginia",3.0
+2911,"Greensville County, Virginia",4.9
+2912,"Halifax County, Virginia",4.8
+2913,"Hanover County, Virginia",3.0
+2914,"Henrico County, Virginia",4.0
+2915,"Henry County, Virginia",4.7
+2916,"Highland County, Virginia",2.9
+2917,"Isle of Wight County, Virginia",3.5
+2918,"James City County, Virginia",4.0
+2919,"King and Queen County, Virginia",3.1
+2920,"King George County, Virginia",2.9
+2921,"King William County, Virginia",3.3
+2922,"Lancaster County, Virginia",5.3
+2923,"Lee County, Virginia",4.0
+2924,"Loudoun County, Virginia",3.1
+2925,"Louisa County, Virginia",3.4
+2926,"Lunenburg County, Virginia",3.8
+2927,"Madison County, Virginia",2.5
+2928,"Mathews County, Virginia",3.2
+2929,"Mecklenburg County, Virginia",4.7
+2930,"Middlesex County, Virginia",3.4
+2931,"Montgomery County, Virginia",3.0
+2932,"Nelson County, Virginia",3.5
+2933,"New Kent County, Virginia",3.0
+2934,"Northampton County, Virginia",5.4
+2935,"Northumberland County, Virginia",4.9
+2936,"Nottoway County, Virginia",3.7
+2937,"Orange County, Virginia",3.6
+2938,"Page County, Virginia",4.6
+2939,"Patrick County, Virginia",4.5
+2940,"Pittsylvania County, Virginia",4.0
+2941,"Powhatan County, Virginia",2.9
+2942,"Prince Edward County, Virginia",4.8
+2943,"Prince George County, Virginia",4.5
+2944,"Prince William County, Virginia",4.0
+2945,"Pulaski County, Virginia",4.0
+2946,"Rappahannock County, Virginia",2.9
+2947,"Richmond County, Virginia",3.5
+2948,"Roanoke County, Virginia",3.1
+2949,"Rockbridge County, Virginia",3.7
+2950,"Rockingham County, Virginia",2.9
+2951,"Russell County, Virginia",4.3
+2952,"Scott County, Virginia",3.6
+2953,"Shenandoah County, Virginia",3.6
+2954,"Smyth County, Virginia",4.0
+2955,"Southampton County, Virginia",3.5
+2956,"Spotsylvania County, Virginia",3.8
+2957,"Stafford County, Virginia",3.6
+2958,"Surry County, Virginia",3.8
+2959,"Sussex County, Virginia",6.5
+2960,"Tazewell County, Virginia",5.2
+2961,"Warren County, Virginia",3.5
+2962,"Washington County, Virginia",3.6
+2963,"Westmoreland County, Virginia",4.4
+2964,"Wise County, Virginia",5.2
+2965,"Wythe County, Virginia",4.0
+2966,"York County, Virginia",3.3
+2967,"Alexandria city, Virginia",3.8
+2968,"Bristol city, Virginia",4.7
+2969,"Buena Vista city, Virginia",3.9
+2970,"Charlottesville city, Virginia",3.7
+2971,"Chesapeake city, Virginia",3.8
+2972,"Colonial Heights city, Virginia",4.8
+2973,"Covington city, Virginia",5.8
+2974,"Danville city, Virginia",6.5
+2975,"Emporia city, Virginia",7.8
+2976,"Fairfax city, Virginia",3.4
+2977,"Falls Church city, Virginia",2.6
+2978,"Franklin city, Virginia",6.9
+2979,"Fredericksburg city, Virginia",4.7
+2980,"Galax city, Virginia",4.1
+2981,"Hampton city, Virginia",5.7
+2982,"Harrisonburg city, Virginia",4.0
+2983,"Hopewell city, Virginia",7.5
+2984,"Lexington city, Virginia",4.9
+2985,"Lynchburg city, Virginia",5.1
+2986,"Manassas city, Virginia",3.9
+2987,"Manassas Park city, Virginia",3.8
+2988,"Martinsville city, Virginia",7.5
+2989,"Newport News city, Virginia",5.6
+2990,"Norfolk city, Virginia",5.7
+2991,"Norton city, Virginia",4.9
+2992,"Petersburg city, Virginia",10.5
+2993,"Poquoson city, Virginia",2.8
+2994,"Portsmouth city, Virginia",6.7
+2995,"Radford city, Virginia",4.1
+2996,"Richmond city, Virginia",5.5
+2997,"Roanoke city, Virginia",4.8
+2998,"Salem city, Virginia",3.6
+2999,"Staunton city, Virginia",3.8
+3000,"Suffolk city, Virginia",4.4
+3001,"Virginia Beach city, Virginia",3.7
+3002,"Waynesboro city, Virginia",4.1
+3003,"Williamsburg city, Virginia",4.9
+3004,"Winchester city, Virginia",3.5
+3005,Washington,5.2
+3006,"Adams County, Washington",5.5
+3007,"Asotin County, Washington",3.7
+3008,"Benton County, Washington",5.6
+3009,"Chelan County, Washington",5.3
+3010,"Clallam County, Washington",6.5
+3011,"Clark County, Washington",5.5
+3012,"Columbia County, Washington",5.2
+3013,"Cowlitz County, Washington",6.4
+3014,"Douglas County, Washington",5.5
+3015,"Ferry County, Washington",8.9
+3016,"Franklin County, Washington",6.6
+3017,"Garfield County, Washington",5.8
+3018,"Grant County, Washington",6.6
+3019,"Grays Harbor County, Washington",7.8
+3020,"Island County, Washington",5.6
+3021,"Jefferson County, Washington",6.2
+3022,"King County, Washington",4.3
+3023,"Kitsap County, Washington",5.0
+3024,"Kittitas County, Washington",6.3
+3025,"Klickitat County, Washington",6.0
+3026,"Lewis County, Washington",6.3
+3027,"Lincoln County, Washington",4.9
+3028,"Mason County, Washington",7.0
+3029,"Okanogan County, Washington",6.6
+3030,"Pacific County, Washington",7.9
+3031,"Pend Oreille County, Washington",7.6
+3032,"Pierce County, Washington",6.1
+3033,"San Juan County, Washington",5.0
+3034,"Skagit County, Washington",6.3
+3035,"Skamania County, Washington",6.4
+3036,"Snohomish County, Washington",5.0
+3037,"Spokane County, Washington",5.4
+3038,"Stevens County, Washington",6.7
+3039,"Thurston County, Washington",5.2
+3040,"Wahkiakum County, Washington",6.6
+3041,"Walla Walla County, Washington",4.6
+3042,"Whatcom County, Washington",6.0
+3043,"Whitman County, Washington",4.5
+3044,"Yakima County, Washington",7.0
+3045,West Virginia,5.0
+3046,"Barbour County, West Virginia",5.3
+3047,"Berkeley County, West Virginia",3.6
+3048,"Boone County, West Virginia",6.1
+3049,"Braxton County, West Virginia",6.7
+3050,"Brooke County, West Virginia",6.1
+3051,"Cabell County, West Virginia",4.6
+3052,"Calhoun County, West Virginia",10.3
+3053,"Clay County, West Virginia",7.7
+3054,"Doddridge County, West Virginia",4.1
+3055,"Fayette County, West Virginia",6.2
+3056,"Gilmer County, West Virginia",6.9
+3057,"Grant County, West Virginia",4.5
+3058,"Greenbrier County, West Virginia",4.5
+3059,"Hampshire County, West Virginia",3.4
+3060,"Hancock County, West Virginia",6.3
+3061,"Hardy County, West Virginia",4.9
+3062,"Harrison County, West Virginia",4.7
+3063,"Jackson County, West Virginia",5.7
+3064,"Jefferson County, West Virginia",3.1
+3065,"Kanawha County, West Virginia",5.2
+3066,"Lewis County, West Virginia",7.0
+3067,"Lincoln County, West Virginia",6.6
+3068,"Logan County, West Virginia",6.6
+3069,"McDowell County, West Virginia",8.2
+3070,"Marion County, West Virginia",5.2
+3071,"Marshall County, West Virginia",6.2
+3072,"Mason County, West Virginia",5.5
+3073,"Mercer County, West Virginia",6.0
+3074,"Mineral County, West Virginia",4.7
+3075,"Mingo County, West Virginia",9.0
+3076,"Monongalia County, West Virginia",3.9
+3077,"Monroe County, West Virginia",3.6
+3078,"Morgan County, West Virginia",3.5
+3079,"Nicholas County, West Virginia",6.0
+3080,"Ohio County, West Virginia",5.1
+3081,"Pendleton County, West Virginia",3.0
+3082,"Pleasants County, West Virginia",7.2
+3083,"Pocahontas County, West Virginia",5.0
+3084,"Preston County, West Virginia",4.5
+3085,"Putnam County, West Virginia",4.2
+3086,"Raleigh County, West Virginia",5.2
+3087,"Randolph County, West Virginia",5.6
+3088,"Ritchie County, West Virginia",5.6
+3089,"Roane County, West Virginia",8.5
+3090,"Summers County, West Virginia",4.7
+3091,"Taylor County, West Virginia",4.6
+3092,"Tucker County, West Virginia",5.4
+3093,"Tyler County, West Virginia",8.0
+3094,"Upshur County, West Virginia",6.2
+3095,"Wayne County, West Virginia",5.1
+3096,"Webster County, West Virginia",6.2
+3097,"Wetzel County, West Virginia",6.7
+3098,"Wirt County, West Virginia",7.6
+3099,"Wood County, West Virginia",5.3
+3100,"Wyoming County, West Virginia",5.8
+3101,Wisconsin,3.8
+3102,"Adams County, Wisconsin",6.2
+3103,"Ashland County, Wisconsin",5.0
+3104,"Barron County, Wisconsin",3.9
+3105,"Bayfield County, Wisconsin",5.7
+3106,"Brown County, Wisconsin",3.4
+3107,"Buffalo County, Wisconsin",4.2
+3108,"Burnett County, Wisconsin",5.3
+3109,"Calumet County, Wisconsin",2.8
+3110,"Chippewa County, Wisconsin",3.9
+3111,"Clark County, Wisconsin",3.2
+3112,"Columbia County, Wisconsin",3.4
+3113,"Crawford County, Wisconsin",4.4
+3114,"Dane County, Wisconsin",2.8
+3115,"Dodge County, Wisconsin",3.2
+3116,"Door County, Wisconsin",4.4
+3117,"Douglas County, Wisconsin",4.4
+3118,"Dunn County, Wisconsin",3.6
+3119,"Eau Claire County, Wisconsin",3.2
+3120,"Florence County, Wisconsin",4.8
+3121,"Fond du Lac County, Wisconsin",3.2
+3122,"Forest County, Wisconsin",6.7
+3123,"Grant County, Wisconsin",3.0
+3124,"Green County, Wisconsin",3.0
+3125,"Green Lake County, Wisconsin",4.3
+3126,"Iowa County, Wisconsin",3.4
+3127,"Iron County, Wisconsin",6.4
+3128,"Jackson County, Wisconsin",5.2
+3129,"Jefferson County, Wisconsin",3.3
+3130,"Juneau County, Wisconsin",4.3
+3131,"Kenosha County, Wisconsin",4.3
+3132,"Kewaunee County, Wisconsin",2.8
+3133,"La Crosse County, Wisconsin",3.0
+3134,"Lafayette County, Wisconsin",2.6
+3135,"Langlade County, Wisconsin",4.5
+3136,"Lincoln County, Wisconsin",3.7
+3137,"Manitowoc County, Wisconsin",3.4
+3138,"Marathon County, Wisconsin",3.0
+3139,"Marinette County, Wisconsin",4.4
+3140,"Marquette County, Wisconsin",4.4
+3141,"Menominee County, Wisconsin",8.6
+3142,"Milwaukee County, Wisconsin",5.4
+3143,"Monroe County, Wisconsin",3.2
+3144,"Oconto County, Wisconsin",3.7
+3145,"Oneida County, Wisconsin",4.3
+3146,"Outagamie County, Wisconsin",3.1
+3147,"Ozaukee County, Wisconsin",3.1
+3148,"Pepin County, Wisconsin",3.4
+3149,"Pierce County, Wisconsin",3.4
+3150,"Polk County, Wisconsin",4.2
+3151,"Portage County, Wisconsin",3.5
+3152,"Price County, Wisconsin",4.2
+3153,"Racine County, Wisconsin",4.7
+3154,"Richland County, Wisconsin",3.5
+3155,"Rock County, Wisconsin",4.4
+3156,"Rusk County, Wisconsin",4.4
+3157,"St. Croix County, Wisconsin",3.4
+3158,"Sauk County, Wisconsin",4.0
+3159,"Sawyer County, Wisconsin",5.1
+3160,"Shawano County, Wisconsin",3.7
+3161,"Sheboygan County, Wisconsin",3.1
+3162,"Taylor County, Wisconsin",3.3
+3163,"Trempealeau County, Wisconsin",3.7
+3164,"Vernon County, Wisconsin",3.2
+3165,"Vilas County, Wisconsin",4.7
+3166,"Walworth County, Wisconsin",3.6
+3167,"Washburn County, Wisconsin",4.5
+3168,"Washington County, Wisconsin",3.1
+3169,"Waukesha County, Wisconsin",3.1
+3170,"Waupaca County, Wisconsin",3.5
+3171,"Waushara County, Wisconsin",4.2
+3172,"Winnebago County, Wisconsin",3.2
+3173,"Wood County, Wisconsin",4.4
+3174,Wyoming,4.5
+3175,"Albany County, Wyoming",3.3
+3176,"Big Horn County, Wyoming",4.4
+3177,"Campbell County, Wyoming",5.3
+3178,"Carbon County, Wyoming",3.9
+3179,"Converse County, Wyoming",4.9
+3180,"Crook County, Wyoming",3.4
+3181,"Fremont County, Wyoming",4.7
+3182,"Goshen County, Wyoming",3.5
+3183,"Hot Springs County, Wyoming",3.9
+3184,"Johnson County, Wyoming",4.1
+3185,"Laramie County, Wyoming",4.0
+3186,"Lincoln County, Wyoming",3.8
+3187,"Natrona County, Wyoming",6.1
+3188,"Niobrara County, Wyoming",3.6
+3189,"Park County, Wyoming",4.1
+3190,"Platte County, Wyoming",4.0
+3191,"Sheridan County, Wyoming",4.2
+3192,"Sublette County, Wyoming",5.6
+3193,"Sweetwater County, Wyoming",5.6
+3194,"Teton County, Wyoming",3.2
+3195,"Uinta County, Wyoming",5.0
+3196,"Washakie County, Wyoming",4.0
+3197,"Weston County, Wyoming",3.2
